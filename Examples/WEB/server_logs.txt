@@ -1,0 +1,73 @@
+[loginfo] [(dd/mm/yy):8/5/2023] [time(hh/mm/ss):9:24:41] Registration is successful. Fullname: peter, Email: peter@gmail.com
+[loginfo server] [(dd/mm/yy):8/5/2023] [time(hh/mm/ss):9:35:18] Server is running on http://localhost:3000
+[loginfo server] [(dd/mm/yy):8/5/2023] [time(hh/mm/ss):9:35:56] Registration is successful. Fullname: peter, Email: peter@gmail.com
+[loginfo server] [(dd/mm/yy):8/5/2023] [time(hh/mm/ss):9:47:23] Server is running on http://localhost:3000
+[loginfo server] [(dd/mm/yy):8/5/2023] [time(hh/mm/ss):9:48:17] Server is running on http://localhost:3000
+[logerror server] [(dd/mm/yy):8/5/2023] [time(hh/mm/ss):9:48:25] Registration failed. Credential Email: peter@gmail.com is already being used.
+[logerror server] [(dd/mm/yy):8/5/2023] [time(hh/mm/ss):9:48:59] Registration failed. Credential Email: peter@gmail.com is already being used.
+[loginfo server] [(dd/mm/yy):8/5/2023] [time(hh/mm/ss):9:53:13] Server is running on http://localhost:3000
+[logerror server] [(dd/mm/yy):8/5/2023] [time(hh/mm/ss):9:53:29] Registration failed. Credential Email: peter@gmail.com is already being used.
+[loginfo server] [(dd/mm/yy):8/5/2023] [time(hh/mm/ss):9:53:58] Server is running on http://localhost:3000
+[logerror server] [(dd/mm/yy):8/5/2023] [time(hh/mm/ss):10:13:43] Registration failed. Credential Email: peter@gmail.com is already being used.
+[loginfo server] [(dd/mm/yy):9/5/2023] [time(hh/mm/ss):18:45:28] Server is running on http://localhost:3000
+[logerror server] [(dd/mm/yy):9/5/2023] [time(hh/mm/ss):18:46:44] Registration failed. Credential Email: peter@gmail.com is already being used.
+[logerror server] [(dd/mm/yy):9/5/2023] [time(hh/mm/ss):18:47:27] Registration failed. Credential Email: peter@gmail.com is already being used.
+[loginfo server] [(dd/mm/yy):9/5/2023] [time(hh/mm/ss):18:47:38] Server is running on http://localhost:3000
+[logerror server] [(dd/mm/yy):9/5/2023] [time(hh/mm/ss):18:47:55] Registration failed. Credential Email: peter@gmail.com is already being used.
+[logerror server] [(dd/mm/yy):9/5/2023] [time(hh/mm/ss):18:48:33] Registration failed. Credential Email: peter@gmail.com is already being used.
+[logerror server] [(dd/mm/yy):9/5/2023] [time(hh/mm/ss):18:48:59] Registration failed. Credential Email: peter@gmail.com is already being used.
+[logerror server] [(dd/mm/yy):9/5/2023] [time(hh/mm/ss):18:51:13] Registration failed. Credential Email: peter@gmail.com is already being used.
+[logerror server] [(dd/mm/yy):9/5/2023] [time(hh/mm/ss):18:51:35] Registration failed. Credential Email: peter@gmail.com is already being used.
+[loginfo server] [(dd/mm/yy):9/5/2023] [time(hh/mm/ss):18:51:45] Server is running on http://localhost:3000
+[logerror server] [(dd/mm/yy):9/5/2023] [time(hh/mm/ss):18:52:4] Registration failed. Credential Email: peter@gmail.com is already being used.
+[loginfo server] [(dd/mm/yy):9/5/2023] [time(hh/mm/ss):18:52:53] Server is running on http://localhost:3000
+[loginfo server] [(dd/mm/yy):9/5/2023] [time(hh/mm/ss):18:53:47] Server is running on http://localhost:3000
+[loginfo server] [(dd/mm/yy):9/5/2023] [time(hh/mm/ss):18:53:54] Registration is successful. Fullname: joseph, Email: peter@gmail.com
+[loginfo server] [(dd/mm/yy):9/5/2023] [time(hh/mm/ss):18:54:31] Server is running on http://localhost:3000
+[logerror server] [(dd/mm/yy):9/5/2023] [time(hh/mm/ss):18:54:36] Registration failed. Credential Email: peter@gmail.com is already being used.
+[logerror server] [(dd/mm/yy):9/5/2023] [time(hh/mm/ss):18:54:54] Registration failed. Credential Email: meshack@gmail.com is already being used.
+[loginfo server] [(dd/mm/yy):9/5/2023] [time(hh/mm/ss):18:55:35] Server is running on http://localhost:3000
+[logerror server] [(dd/mm/yy):9/5/2023] [time(hh/mm/ss):18:55:50] Registration failed. Credential Email: peter@gmail.com is already being used.
+[logerror server] [(dd/mm/yy):9/5/2023] [time(hh/mm/ss):18:56:17] Registration failed. Credential Email: meshack@gmail.com is already being used.
+[loginfo server] [(dd/mm/yy):9/5/2023] [time(hh/mm/ss):18:58:6] Server is running on http://localhost:3000
+[loginfo server] [(dd/mm/yy):9/5/2023] [time(hh/mm/ss):18:58:11] Registration is successful. Fullname: peter, Email: meshack@gmail.com
+[logerror server] [(dd/mm/yy):9/5/2023] [time(hh/mm/ss):18:58:29] Registration failed. Credential Email: peter@gmail.com is already being used.
+[logerror server] [(dd/mm/yy):9/5/2023] [time(hh/mm/ss):18:58:50] Registration failed. Credential Email: meshack@gmail.com is already being used.
+[loginfo server] [(dd/mm/yy):9/5/2023] [time(hh/mm/ss):19:2:11] Server is running on http://localhost:3000
+[logerror server] [(dd/mm/yy):9/5/2023] [time(hh/mm/ss):19:2:18] Registration failed. Credential Email: peter@gmail.com is already being used.
+[loginfo server] [(dd/mm/yy):9/5/2023] [time(hh/mm/ss):19:3:39] Server is running on http://localhost:3000
+[logerror server] [(dd/mm/yy):9/5/2023] [time(hh/mm/ss):19:3:51] Registration failed. Credential Email: peter@gmail.com is already being used.
+[loginfo server] [(dd/mm/yy):9/5/2023] [time(hh/mm/ss):19:36:49] Server is running on http://localhost:3000
+[logerror server] [(dd/mm/yy):9/5/2023] [time(hh/mm/ss):19:39:36] Registration failed. Credential Email: joseph@gmail.com or Username:joseph is already being used.
+[loginfo server] [(dd/mm/yy):9/5/2023] [time(hh/mm/ss):19:39:52] Server is running on http://localhost:3000
+[loginfo server] [(dd/mm/yy):9/5/2023] [time(hh/mm/ss):19:40:13] Registration is successful. Fullname: joseph, Email: joseph@gmail.com
+[loginfo server] [(dd/mm/yy):9/5/2023] [time(hh/mm/ss):19:41:58] Server is running on http://localhost:3000
+[logerror server] [(dd/mm/yy):9/5/2023] [time(hh/mm/ss):19:42:3] Login failed. Credential Email: joseph@gmail.com or password is Invalid.
+[logerror server] [(dd/mm/yy):9/5/2023] [time(hh/mm/ss):19:42:24] Login failed. Credential Email: joseph@gmail.com or password is Invalid.
+[loginfo server] [(dd/mm/yy):9/5/2023] [time(hh/mm/ss):19:43:35] Server is running on http://localhost:3000
+[logerror server] [(dd/mm/yy):9/5/2023] [time(hh/mm/ss):19:43:47] Login failed. Credential Email: joseph@gmail.com or password is Invalid.
+[loginfo server] [(dd/mm/yy):9/5/2023] [time(hh/mm/ss):19:44:8] Server is running on http://localhost:3000
+[logerror server] [(dd/mm/yy):9/5/2023] [time(hh/mm/ss):19:44:18] Login failed. Credential Email: joseph@gmail.com or password is Invalid.
+[loginfo server] [(dd/mm/yy):9/5/2023] [time(hh/mm/ss):19:45:5] Server is running on http://localhost:3000
+[logerror server] [(dd/mm/yy):9/5/2023] [time(hh/mm/ss):19:45:15] Login failed. Credential Email: joseph@gmail.com or password is Invalid.
+[loginfo server] [(dd/mm/yy):9/5/2023] [time(hh/mm/ss):19:45:36] Server is running on http://localhost:3000
+[loginfo server] [(dd/mm/yy):9/5/2023] [time(hh/mm/ss):19:46:16] Server is running on http://localhost:3000
+[loginfo server] [(dd/mm/yy):9/5/2023] [time(hh/mm/ss):19:46:23] Login is successful.
+[loginfo server] [(dd/mm/yy):9/5/2023] [time(hh/mm/ss):19:49:25] Server is running on http://localhost:3000
+[loginfo server] [(dd/mm/yy):9/5/2023] [time(hh/mm/ss):19:49:33] Login is successful.
+[loginfo server] [(dd/mm/yy):9/5/2023] [time(hh/mm/ss):19:51:39] Server is running on http://localhost:3000
+[loginfo server] [(dd/mm/yy):9/5/2023] [time(hh/mm/ss):19:51:47] Login is successful.
+[loginfo server] [(dd/mm/yy):9/5/2023] [time(hh/mm/ss):19:53:12] Server is running on http://localhost:3000
+[loginfo server] [(dd/mm/yy):9/5/2023] [time(hh/mm/ss):19:53:19] Login is successful.
+[loginfo server] [(dd/mm/yy):9/5/2023] [time(hh/mm/ss):19:59:39] Server is running on http://localhost:3000
+[loginfo server] [(dd/mm/yy):9/5/2023] [time(hh/mm/ss):19:59:44] Login is successful.
+[loginfo server] [(dd/mm/yy):9/5/2023] [time(hh/mm/ss):20:0:6] Server is running on http://localhost:3000
+[loginfo server] [(dd/mm/yy):9/5/2023] [time(hh/mm/ss):20:0:19] Login is successful.
+[loginfo server] [(dd/mm/yy):9/5/2023] [time(hh/mm/ss):20:1:33] Server is running on http://localhost:3000
+[loginfo server] [(dd/mm/yy):9/5/2023] [time(hh/mm/ss):20:1:50] Login is successful.
+[loginfo server] [(dd/mm/yy):9/5/2023] [time(hh/mm/ss):20:2:12] Server is running on http://localhost:3000
+[loginfo server] [(dd/mm/yy):9/5/2023] [time(hh/mm/ss):20:2:22] Login is successful.
+[loginfo server] [(dd/mm/yy):9/5/2023] [time(hh/mm/ss):20:3:2] Server is running on http://localhost:3000
+[loginfo server] [(dd/mm/yy):9/5/2023] [time(hh/mm/ss):20:3:13] Login is successful.
+[loginfo server] [(dd/mm/yy):9/5/2023] [time(hh/mm/ss):20:5:17] Server is running on http://localhost:3000
+[loginfo server] [(dd/mm/yy):9/5/2023] [time(hh/mm/ss):20:5:34] Login is successful.
