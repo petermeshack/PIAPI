@@ -75,6 +75,16 @@ fieldItems)</strong></p>
 </ul>
 <p>Parameters:</p>
 <ul>
+ <p><strong>Method: addUniqueFieldsItems(databaseName, tableName, fieldName,
+fieldItems)</strong></p>
+<ul>
+<li><p>Adds Unique field items that dosent exist to a specified field in a table.</p></li>
+<li><p>Checks if the database, table, and field exist.</p></li>
+<li><p>Generates a new ID for the field item.</p></li>
+<li><p>Logs the addition of field items or error.</p></li>
+</ul>
+<p>Parameters:</p>
+<ul>
 <li><p>databaseName (string): The name of the database.</p></li>
 <li><p>tableName (string): The name of the table.</p></li>
 <li><p>fieldName (string): The name of the field.</p></li>
