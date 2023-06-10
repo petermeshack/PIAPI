@@ -1,0 +1,658 @@
+[logerror] [(dd/mm/yy):7/5/2023][time(hh/mm/ss):22:1:29]Error loading the database: Unexpected end of JSON input
+[loginfo] [(dd/mm/yy):7/5/2023][time(hh/mm/ss):22:1:29]Database 'myDatabase' created.
+[loginfo] [(dd/mm/yy):7/5/2023][time(hh/mm/ss):22:1:29]Table 'myTable' created in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):7/5/2023][time(hh/mm/ss):22:1:29]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):7/5/2023][time(hh/mm/ss):22:1:29]Added field items to 'username' in table 'myTable' of database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):8:49:51][time:1686289791632]Database 'myDatabase' already exists.
+[loginfo] Database name changed from 'myDatabase' to 'newDatabaseName'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):8:50:13]Error loading the database: Unexpected end of JSON input
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):8:50:13]Database 'myDatabase' created.
+[loginfo] Database name changed from 'myDatabase' to 'newDatabaseName'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):8:56:58]Error loading the database: Unexpected end of JSON input
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):8:56:58]Database 'myDatabase' created.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):8:56:58]Table 'myTable' created in database 'myDatabase'.
+[loginfo] Table name changed from 'myTable' to 'newTable' in database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):8:57:38][time:1686290258501]Database 'myDatabase' already exists.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):8:57:38]Table 'myTable' created in database 'myDatabase'.
+[loginfo] Table name changed from 'myTable' to 'outerTable' in database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):8:57:58]Error loading the database: Unexpected end of JSON input
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):8:57:58]Database 'myDatabase' created.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):8:57:58]Table 'myTable' created in database 'myDatabase'.
+[loginfo] Table name changed from 'myTable' to 'outerTable' in database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):8:58:35][time:1686290315071]Database 'myDatabase' already exists.
+[loginfo] Table name changed from 'outerTable' to 'myTable' in database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):8:58:53][time:1686290333381]Database 'myDatabase' already exists.
+[loginfo] Table name changed from 'myTable' to 'outerTable' in database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:11:30]Error loading the database: Unexpected end of JSON input
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:11:30]Database 'myDatabase' created.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:11:30]Table 'myTable' created in database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:11:30]Field 'fullname' does not exist in table 'myTable' of database 'myDatabase'.
+[logerror] Field 'fullname' does not exist in table 'myTable' of database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:13:41][time:1686291221919]Database 'myDatabase' already exists.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:13:41]Table 'myTable' already exists in database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:13:41]Field 'fullname' does not exist in table 'myTable' of database 'myDatabase'.
+[logerror] Field 'fullname' does not exist in table 'myTable' of database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:13:51]Error loading the database: Unexpected end of JSON input
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:13:51]Database 'myDatabase' created.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:13:51]Table 'myTable' created in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:13:51]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo] Field 'fullname' in table 'myTable' of database 'myDatabase' was changed to 'newFieldName'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:20:32][time:1686291632403]Database 'myDatabase' already exists.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:20:32]Table 'myTable' already exists in database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:20:32]Field 'fullname' does not exist in table 'myTable' of database 'myDatabase'.
+[loginfo] Field 'newFieldName' in table 'myTable' of database 'myDatabase' was changed to 'fullname'.
+[loginfo] Content of item with id '01' in field 'fullname' of table 'myTable' in database 'myDatabase' was changed to 'newContent'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:24:29][time:1686291869317]Database 'myDatabase' already exists.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:24:29]Table 'myTable' already exists in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:24:29]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo] Content of item with id '01' in field 'fullname' of table 'myTable' in database 'myDatabase' was changed to 'peter'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:24:45]Error loading the database: Unexpected end of JSON input
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:24:45]Database 'myDatabase' created.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:24:45]Table 'myTable' created in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:24:45]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo] Content of item with id '01' in field 'fullname' of table 'myTable' in database 'myDatabase' was changed to 'peter'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:25:33][time:1686291933390]Database 'myDatabase' already exists.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:25:33]Table 'myTable' already exists in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:25:33]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo] Content of item with id '01' in field 'fullname' of table 'myTable' in database 'myDatabase' was changed to 'peter'.
+[loginfo] Changed 2 item(s) with content 'peter' to 'newContent' in field 'fullname' of table 'myTable' in database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:33:31]Error loading the database: Unexpected end of JSON input
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:33:31]Database 'myDatabase' created.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:33:31]Table 'myTable' created in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:33:31]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo] Added a new field 'age' to table 'myTable' in database 'myDatabase'.
+[loginfo] Added a new field 'address' to table 'myTable' in database 'myDatabase'.
+[loginfo] Added a new field 'email[]' to table 'myTable' in database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:36:54]Error loading the database: Unexpected end of JSON input
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:36:54]Database 'myDatabase' created.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:36:54]Table 'myTable' created in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:36:54]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo] Added a new field 'age' to table 'myTable' in database 'myDatabase'.
+[loginfo] Added a new field 'address' to table 'myTable' in database 'myDatabase'.
+[loginfo] Added a new field 'email[]' to table 'myTable' in database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:39:54]Error loading the database: Unexpected end of JSON input
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:39:54]Database 'myDatabase' created.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:39:54]Table 'myTable' created in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:39:54]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo] Added a new field 'age' to table 'myTable' in database 'myDatabase'.
+[loginfo] Added a new field 'address' to table 'myTable' in database 'myDatabase'.
+[loginfo] Added a new field 'email' to table 'myTable' in database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:44:57][time:1686293097904]Database 'myDatabase' already exists.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:44:57]Table 'myTable' already exists in database 'myDatabase'.
+[loginfo] Deleted database 'myDatabase' and its content.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:46:2]Database 'myDatabase' created.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:46:2]Database 'Users' created.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:46:2]Table 'myTable' created in database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:46:2]1686293162738]Database 'Company' does not exist.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:46:10]Error loading the database: Unexpected end of JSON input
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:46:10]Database 'myDatabase' created.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:46:10]Database 'Users' created.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:46:10]Table 'myTable' created in database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:46:10]1686293170172]Database 'Company' does not exist.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:46:27][time:1686293187860]Database 'myDatabase' already exists.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:46:27][time:1686293187860]Database 'Users' already exists.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:46:27]Table 'myTable' already exists in database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:46:27]1686293187860]Database 'Company' does not exist.
+[loginfo] Deleted database 'myDatabase' and its content.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:50:29]Error loading the database: Unexpected end of JSON input
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:50:29]Database 'myDatabase' created.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:50:29]Table 'myTable' created in database 'myDatabase'.
+[loginfo] Deleted table 'myTable' from database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:50:36][time:1686293436551]Database 'myDatabase' already exists.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:50:36]Table 'myTable' created in database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:50:43][time:1686293443838]Database 'myDatabase' already exists.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:50:43]Table 'myTable' already exists in database 'myDatabase'.
+[loginfo] Deleted table 'myTable' from database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:51:1][time:1686293461231]Database 'myDatabase' already exists.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:51:1]Table 'myTable' created in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:51:1]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:51:14][time:1686293474594]Database 'myDatabase' already exists.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:51:14]Table 'myTable' already exists in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:51:14]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo] Deleted table 'myTable' from database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:51:20][time:1686293480290]Database 'myDatabase' already exists.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:51:20]Table 'myTable' created in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:51:20]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo] Deleted table 'myTable' from database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:51:29][time:1686293489324]Database 'myDatabase' already exists.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:51:29]Table 'myTable' created in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:51:29]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:54:37][time:1686293677410]Database 'myDatabase' already exists.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:54:37]Table 'myTable' already exists in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:54:37]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo] Deleted field 'fullname' from table 'myTable' of database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:54:51][time:1686293691781]Database 'myDatabase' already exists.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:54:51]Table 'myTable' already exists in database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:54:51]Field 'fullname' does not exist in table 'myTable' of database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:54:58][time:1686293698325]Database 'myDatabase' already exists.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:54:58]Table 'myTable' already exists in database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:54:58]Field 'fullname' does not exist in table 'myTable' of database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:55:5]Error loading the database: Unexpected end of JSON input
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:55:5]Database 'myDatabase' created.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:55:5]Table 'myTable' created in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:55:5]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:55:35][time:1686293735259]Database 'myDatabase' already exists.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:55:35]Table 'myTable' already exists in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:55:35]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo] Deleted field 'fullname' from table 'myTable' of database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:55:45][time:1686293745452]Database 'myDatabase' already exists.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:55:45]Table 'myTable' already exists in database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:55:45]Field 'fullname' does not exist in table 'myTable' of database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:55:47][time:1686293747630]Database 'myDatabase' already exists.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:55:47]Table 'myTable' already exists in database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):9:55:47]Field 'fullname' does not exist in table 'myTable' of database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):10:0:27]Error loading the database: Unexpected end of JSON input
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):10:0:27]Database 'myDatabase' created.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):10:0:27]Table 'myTable' created in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):10:0:27]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo] Deleted item from field 'fullname' in table 'myTable' of database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):10:0:36][time:1686294036334]Database 'myDatabase' already exists.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):10:0:36]Table 'myTable' already exists in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):10:0:36]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):10:0:44][time:1686294044223]Database 'myDatabase' already exists.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):10:0:44]Table 'myTable' already exists in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):10:0:44]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo] Deleted item from field 'fullname' in table 'myTable' of database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):10:18:44][time:1686295124795]Database 'myDatabase' already exists.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):10:18:44]Table 'myTable' already exists in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):10:18:44]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo] Deleted all items matching 'peter' from field 'fullname' in table 'myTable' of database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):10:19:2][time:1686295142718]Database 'myDatabase' already exists.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):10:19:2]Table 'myTable' already exists in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):10:19:2]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):11:39:8]Error loading the database: Unexpected end of JSON input
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):11:39:8]Database 'myDatabase' created.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):11:39:8]Table 'myTable' created in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):11:39:8]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):11:39:8]Added field items to 'username' in table 'myTable' of database 'myDatabase'.
+[loginfo] Database name changed from 'myDatabase' to 'newDatabaseName'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:3:8]Error loading the database: Unexpected end of JSON input
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:3:8]Database 'myDatabase' created.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:3:8]Table 'myTable' created in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:3:8]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:3:8]Added field items to 'username' in table 'myTable' of database 'myDatabase'.
+[loginfo] Deleted database 'myDatabase' and its content.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:3:21]Error loading the database: Unexpected end of JSON input
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:3:21]Database 'myDatabase' created.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:3:21]Table 'myTable' created in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:3:21]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:3:21]Added field items to 'username' in table 'myTable' of database 'myDatabase'.
+[loginfo] Table name changed from 'myTable' to 'newTableName' in database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:7:36]Error loading the database: Unexpected end of JSON input
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:7:36]Database 'myDatabase' created.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:7:36]Table 'myTable' created in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:7:36]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:7:36]Added field items to 'username' in table 'myTable' of database 'myDatabase'.
+[loginfo] Table name changed from 'myTable' to 'newTableName' in database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:17:12]Error loading the database: Unexpected end of JSON input
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:17:12]Database 'myDatabase' created.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:17:12]Table 'myTable' created in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:17:12]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:17:12]Added field items to 'username' in table 'myTable' of database 'myDatabase'.
+[loginfo] Deleted table 'myTable' from database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:22:31]Error loading the database: Unexpected end of JSON input
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:22:31]Database 'myDatabase' created.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:22:31]Table 'myTable' created in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:22:31]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:22:31]Added field items to 'username' in table 'myTable' of database 'myDatabase'.
+[loginfo] Added a new field 'age' to table 'myTable' in database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:31:1]Error loading the database: Unexpected end of JSON input
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:31:1]Database 'myDatabase' created.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:31:1]Table 'myTable' created in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:31:1]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:31:1]Added field items to 'username' in table 'myTable' of database 'myDatabase'.
+[loginfo] Added a new field 'age' to table 'myTable' in database 'myDatabase'.
+[loginfo] Field 'fullname' in table 'myTable' of database 'myDatabase' was changed to 'newFieldname'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:35:47]Error loading the database: Unexpected end of JSON input
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:35:47]Database 'myDatabase' created.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:35:47]Table 'myTable' created in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:35:47]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:35:47]Added field items to 'username' in table 'myTable' of database 'myDatabase'.
+[loginfo] Field 'fullname' in table 'myTable' of database 'myDatabase' was changed to 'newFieldname'.
+[logerror] Field 'fullname' does not exist in table 'myTable' of database 'myDatabase'.
+[logerror] Field 'fullname' does not exist in table 'myTable' of database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:36:39]Error loading the database: Unexpected end of JSON input
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:36:39]Database 'myDatabase' created.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:36:39]Table 'myTable' created in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:36:39]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:36:39]Added field items to 'username' in table 'myTable' of database 'myDatabase'.
+[loginfo] Field 'fullname' in table 'myTable' of database 'myDatabase' was changed to 'newFieldname'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:37:9]Error loading the database: Unexpected end of JSON input
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:37:9]Database 'myDatabase' created.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:37:9]Table 'myTable' created in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:37:9]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:37:9]Added field items to 'username' in table 'myTable' of database 'myDatabase'.
+[loginfo] Content of item with id '01' in field 'fullname' of table 'myTable' in database 'myDatabase' was changed to 'john'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:54:4]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo] Content of item with id '01' in field 'fullname' of table 'myTable' in database 'myDatabase' was changed to 'john'.
+[loginfo] Content of item with id '01' in field 'fullname' of table 'myTable' in database 'myDatabase' was changed to 'john'.
+[loginfo] Content of item with id '01' in field 'fullname' of table 'myTable' in database 'myDatabase' was changed to 'john'.
+[loginfo] Changed 1 item(s) with content 'john' to 'peter' in field 'fullname' of table 'myTable' in database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:4:19]Error loading the database: Unexpected end of JSON input
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:4:19]Database 'myDatabase' created.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:4:19]Table 'myTable' created in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:4:19]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:4:19]Added field items to 'username' in table 'myTable' of database 'myDatabase'.
+[logerror] No items with content 'john' found in field 'fullname' of table 'myTable' in database 'myDatabase'.
+[loginfo] Changed 1 item(s) with content 'peter' to 'john' in field 'fullname' of table 'myTable' in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:5:46]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo] Deleted field 'username' from table 'myTable' of database 'myDatabase'.
+[loginfo] Deleted item from field 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo] Changed 1 item(s) with content 'peter' to 'john' in field 'fullname' of table 'myTable' in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:21:53]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:22:4]Error loading the database: Unexpected end of JSON input
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:22:4]Database 'myDatabase' created.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:22:4]Table 'myTable' created in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:22:4]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:22:4]Added field items to 'username' in table 'myTable' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:22:29]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo] Deleted all items matching 'john' from field 'fullname' in table 'myTable' of database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:52:57][time:1686307977624]Database 'myDatabase' already exists.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:52:57]Table 'myTable' already exists in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:52:57]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:52:57]Table 'table2' created in database 'myDatabase'.
+[logeinfo] [day:5month:5month:function getMonth() { [native code] }][time:1686307977624]Joined tables created as 'joinedTable' in database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):14:1:43][time:1686308503158]Database 'myDatabase' already exists.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):14:1:43]Table 'myTable' already exists in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):14:1:43]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):14:1:43]Table 'table2' already exists in database 'myDatabase'.
+[logerror] [day:5month:5month:function getMonth() { [native code] }][time:1686308503158]One or both tables do not exist in database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):14:1:57]Error loading the database: Unexpected end of JSON input
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):14:1:57]Database 'myDatabase' created.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):14:1:57]Table 'myTable' created in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):14:1:57]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):14:1:57]Table 'table2' created in database 'myDatabase'.
+[logerror] [day:5month:5month:function getMonth() { [native code] }][time:1686308517684]One or both tables do not exist in database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):14:20:36]Error loading the database: Unexpected end of JSON input
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):14:20:36]Database 'myDatabase' created.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):14:20:36]Table 'myTable' created in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):14:20:36]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):14:20:36]Table 'table2' created in database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):14:21:24][time:1686309684529]Database 'myDatabase' already exists.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):14:21:24]Table 'myTable' already exists in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):14:21:24]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):14:21:24]Field 'age' does not exist in table 'myTable' of database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):14:21:24]Table 'table2' already exists in database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):14:22:14]Error loading the database: Unexpected end of JSON input
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):14:22:14]Database 'myDatabase' created.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):14:22:14]Table 'myTable' created in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):14:22:14]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):14:22:14]Added field items to 'age' in table 'myTable' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):14:22:14]Table 'table2' created in database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):14:22:59][time:1686309779476]Database 'myDatabase' already exists.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):14:22:59]Table 'myTable' already exists in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):14:22:59]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):14:22:59]Added field items to 'age' in table 'myTable' of database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):14:22:59]Table 'table2' already exists in database 'myDatabase'.
+[logerror] [day:5month:5month:function getMonth() { [native code] }][time:1686309779476]One or both tables do not exist in database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):14:29:52][time:1686310192125]Database 'myDatabase' already exists.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):14:29:52]Table 'myTable' already exists in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):14:29:52]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):14:29:52]Added field items to 'age' in table 'myTable' of database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):14:29:52]Table 'table2' already exists in database 'myDatabase'.
+[logerror] [day:5month:5month:function getMonth() { [native code] }][time:1686310192125]One or both tables do not exist in database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):14:30:21][time:1686310221781]Database 'myDatabase' already exists.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):14:30:21]Table 'table2' already exists in database 'myDatabase'.
+[logerror] [day:5month:5month:function getMonth() { [native code] }][time:1686310221781]One or both tables do not exist in database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):14:33:10][time:1686310390835]Database 'myDatabase' already exists.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):14:33:10]Table 'table2' already exists in database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):14:33:10]1686310390835]Database 'joinedDatabase' does not exist.
+[loginfo] Table 'joinedTable' created by joining tables in database 'myDatabase' and saved in 'joinedDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):14:48:36][time:1686311316650]Database 'myDatabase' already exists.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):14:48:36]Table 'table2' already exists in database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):14:49:40][time:1686311380904]Database 'myDatabase' already exists.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):14:49:40]Table 'table2' already exists in database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):14:54:1][time:1686311641503]Database 'myDatabase' already exists.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):14:54:1]Table 'table2' already exists in database 'myDatabase'.
+[logerror] [day:5month:5month:5][time:1686311641520]Database 'myDatabase' does not exist.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):14:56:19][time:1686311779809]Database 'myDatabase' already exists.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):14:56:19]Table 'table2' already exists in database 'myDatabase'.
+[logerror] [day:5month:5month:5][time:1686311779822]Database 'myDatabase' does not exist.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):14:57:22][time:1686311842408]Database 'myDatabase' already exists.
+[logerror] [day:5month:5month:5][time:1686311842419]Database 'myDatabase' does not exist.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):15:2:13][time:1686312133248]Database 'myDatabase' already exists.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):15:2:13] Field 'fullname' does not exist in table 'table2'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):15:2:13] Field 'age' does not exist in table 'table2'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):15:2:13]Table 'joinedTable' created in database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):15:3:57][time:1686312237284]Database 'myDatabase' already exists.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):15:3:57] Field 'field3' does not exist in table 'myTable'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):15:3:57] Field 'fullname' does not exist in table 'table2'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):15:3:57]Table 'joinedTable' created in database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):15:12:39][time:1686312759732]Database 'myDatabase' already exists.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):15:12:39] Field 'field3' does not exist in table 'myTable'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):15:12:39] Field 'fullname' does not exist in table 'table2'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):15:12:39]Table 'joinedTable' created in database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):15:22:22][time:1686313342318]Database 'myDatabase' already exists.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):15:22:22] Field 'field3' does not exist in table 'myTable'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):15:22:22] Field 'fullname' does not exist in table 'table2'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):15:22:22] joinDatabaseAndTable operation was successful.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):15:41:26][time:1686314486951]Database 'myDatabase' already exists.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):15:41:53][time:1686314513407]Database 'myDatabase' already exists.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):15:42:22][time:1686314542991]Database 'myDatabase' already exists.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):15:42:23] Target table 'myTable,table2' does not exist in target database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:1:32][time:1686315692574]Database 'myDatabase' already exists.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:1:32] Target table 'myTable,table2' does not exist in target database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:2:38][time:1686315758821]Database 'myDatabase' already exists.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:3:29][time:1686315809797]Database 'myDatabase' already exists.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:3:29] Target table 'myTable,table2' does not exist in target database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:4:46]Error loading the database: Unexpected end of JSON input
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:4:46]Database 'myDatabase' created.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:4:46]Table 'myTable' created in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:4:46]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:4:46]Added field items to 'username' in table 'myTable' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:4:46]Table 'myUsers' created in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:4:46]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:4:46]Added field items to 'username' in table 'myTable' of database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:8:0]Error loading the database: Unexpected end of JSON input
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:8:0]Database 'myDatabase' created.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:8:0]Table 'myTable' created in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:8:0]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:8:0]Added field items to 'username' in table 'myTable' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:8:0]Table 'myUsers' created in database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:9:32]Error loading the database: Unexpected end of JSON input
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:9:32]Database 'myDatabase' created.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:9:32]Table 'myTable' created in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:9:32]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:9:32]Added field items to 'username' in table 'myTable' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:9:32]Table 'myUsers' created in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:9:32]Added field items to 'age' in table 'myUsers' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:9:32]Added field items to 'money' in table 'myUsers' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:16:20] Field 'money' does not exist in table 'myTable'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:16:20] Field 'fullname' does not exist in table 'myUsers'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:16:20]Table 'joinedTable' created in database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:17:16]Error loading the database: Unexpected end of JSON input
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:17:16]Database 'myDatabase' created.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:17:16]Table 'myTable' created in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:17:16]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:17:16]Added field items to 'username' in table 'myTable' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:17:16]Table 'myUsers' created in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:17:16]Added field items to 'age' in table 'myUsers' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:17:16]Added field items to 'money' in table 'myUsers' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:17:16] Field 'money' does not exist in table 'myTable'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:17:16] Field 'fullname' does not exist in table 'myUsers'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:17:16]Table 'joinedTable' created in database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:41:23]Error loading the database: Unexpected end of JSON input
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:41:23]Database 'myDatabase' created.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:41:23]Table 'myTable' created in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:41:23]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:41:23]Added field items to 'username' in table 'myTable' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:41:23]Table 'myUsers' created in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:41:23]Added field items to 'age' in table 'myUsers' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:41:23]Added field items to 'money' in table 'myUsers' of database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:50:13]Error loading the database: Unexpected end of JSON input
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:50:13]Database 'myDatabase' created.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:50:13]Table 'myTable' created in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:50:13]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:50:13]Added field items to 'username' in table 'myTable' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:50:13]Table 'myUsers' created in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:50:13]Added field items to 'age' in table 'myUsers' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:50:13]Added field items to 'money' in table 'myUsers' of database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:51:36][time:1686318696265]Database 'myDatabase' already exists.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:51:36] Source table 'joinedTable' does not exist in source database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:53:52][time:1686318832492]Database 'myDatabase' already exists.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:53:52] Source table 'joinedTable' does not exist in source database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:59:48][time:1686319188168]Database 'myDatabase' already exists.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:59:48] Source table 'joinedTable' does not exist in source database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:0:43][time:1686319243087]Database 'myDatabase' already exists.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:0:43] Target database 'roked' does not exist.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:1:0][time:1686319260205]Database 'myDatabase' already exists.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:1:0] Target database 'UserDb' does not exist.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:2:20]Error loading the database: Unexpected end of JSON input
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:2:20]Database 'myDatabase' created.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:2:20]Table 'myTable' created in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:2:20]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:2:20]Added field items to 'age' in table 'myTable' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:2:20]Table 'table2' created in database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:2:21] Source table 'joinedTable' does not exist in source database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:11:38][time:1686319898738]Database 'myDatabase' already exists.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:11:38]Table 'myTable' already exists in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:11:38]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:11:38]Added field items to 'age' in table 'myTable' of database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:11:38]Table 'table2' already exists in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:11:38] Field 'field3' does not exist in table 'myTable'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:11:38] Field 'fullname' does not exist in table 'table2'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:11:38]Table 'joinedTable' created in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:11:38] Join operation successful. Fields copied from tables [myTable, table2] to new table 'joinedTable' in target database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:12:29][time:1686319949409]Database 'myDatabase' already exists.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:12:29]Table 'myTable' already exists in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:12:29]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:12:29]Added field items to 'age' in table 'myTable' of database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:12:29]Table 'table2' already exists in database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:12:29] Target database 'mydb' does not exist.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:14:10]Error loading the database: Unexpected end of JSON input
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:14:10]Database 'myDatabase' created.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:14:10]Table 'myTable' created in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:14:10]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:14:10]Added field items to 'age' in table 'myTable' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:14:10]Table 'table2' created in database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:14:10] Target database 'mydb' does not exist.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:14:30][time:1686320070961]Database 'myDatabase' already exists.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:14:30]Table 'myTable' already exists in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:14:30]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:14:30]Added field items to 'age' in table 'myTable' of database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:14:30]Table 'table2' already exists in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:14:30] Field 'field3' does not exist in table 'myTable'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:14:30] Field 'fullname' does not exist in table 'table2'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:14:30]Table 'joinedTable' created in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:14:30] Join operation successful. Fields copied from tables [myTable, table2] to new table 'joinedTable' in target database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:15:39][time:1686320139713]Database 'myDatabase' already exists.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:15:39]Table 'myTable' already exists in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:15:39]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:15:39]Added field items to 'age' in table 'myTable' of database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:15:39]Table 'table2' already exists in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:15:39] Field 'field3' does not exist in table 'myTable'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:15:39] Field 'fullname' does not exist in table 'table2'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:15:39] Join operation successful. Fields copied from tables [myTable, table2] to new table 'joinedTable' in target database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:18:36][time:1686320316287]Database 'myDatabase' already exists.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:18:36]Table 'myTable' already exists in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:18:36]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:18:36]Added field items to 'age' in table 'myTable' of database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:18:36]Table 'table2' already exists in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:18:36] Field 'field3' does not exist in table 'myTable'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:18:36] Field 'fullname' does not exist in table 'table2'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:18:36] Join operation successful. Fields copied from tables [myTable, table2] to new table 'joinedTable' in target database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:19:31][time:1686320371156]Database 'myDatabase' already exists.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:19:31]Table 'myTable' already exists in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:19:31]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:19:31]Added field items to 'age' in table 'myTable' of database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:19:31]Table 'table2' already exists in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:19:31] Created new target database 'mypeople'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:19:31] Field 'field3' does not exist in table 'myTable'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:19:31] Field 'fullname' does not exist in table 'table2'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:19:31] Join operation successful. Fields copied from tables [myTable, table2] to new table 'joinedTable' in target database 'mypeople'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:23:24][time:1686320604670]Database 'myDatabase' already exists.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:23:24]Table 'myTable' already exists in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:23:24]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:23:24]Added field items to 'age' in table 'myTable' of database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:23:24]Table 'table2' already exists in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:23:24] Created new target database 'mypeople'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:23:24] Field 'field3' does not exist in table 'myTable'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:23:24] Field 'fullname' does not exist in table 'table2'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:23:24] Join operation successful. Fields copied from tables [myTable, table2] to new table 'joinedTable' in target database 'mypeople'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:23:39]Error loading the database: Unexpected end of JSON input
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:23:39]Database 'myDatabase' created.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:23:39]Table 'myTable' created in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:23:39]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:23:39]Added field items to 'age' in table 'myTable' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:23:39]Table 'table2' created in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:23:39] Created new target database 'mypeople'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:23:39] Field 'field3' does not exist in table 'myTable'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:23:39] Field 'fullname' does not exist in table 'table2'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:23:39] Join operation successful. Fields copied from tables [myTable, table2] to new table 'joinedTable' in target database 'mypeople'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:24:37]Error loading the database: Unexpected end of JSON input
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:24:37]Database 'myDatabase' created.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:24:37]Table 'myTable' created in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:24:37]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:24:37]Added field items to 'username' in table 'myTable' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:24:37]Table 'myUsers' created in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:24:37]Added field items to 'age' in table 'myUsers' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:24:37]Added field items to 'money' in table 'myUsers' of database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:27:31]Error loading the database: Unexpected end of JSON input
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:27:31]Database 'myDatabase' created.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:27:31]Table 'myTable' created in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:27:31]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:27:31]Added field items to 'username' in table 'myTable' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:27:31]Table 'myUsers' created in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:27:31]Added field items to 'age' in table 'myUsers' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:27:31]Added field items to 'money' in table 'myUsers' of database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:27:45][time:1686320865976]Database 'myDatabase' already exists.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:27:45]Table 'myTable' already exists in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:27:45]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:27:45]Field 'age' does not exist in table 'myTable' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:27:45]Table 'table2' created in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:27:45] Created new target database 'mypeople'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:27:45] Field 'field3' does not exist in table 'myTable'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:27:45] Field 'fullname' does not exist in table 'table2'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:27:45] Join operation successful. Fields copied from tables [myTable, table2] to new table 'joinedTable' in target database 'mypeople'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:29:31]Error loading the database: Unexpected end of JSON input
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:29:31]Database 'myDatabase' created.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:29:31]Table 'myTable' created in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:29:31]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:29:31]Added field items to 'age' in table 'myTable' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:29:31]Table 'table2' created in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:29:31] Created new target database 'mypeople'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:29:31] Field 'field3' does not exist in table 'myTable'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:29:31] Field 'fullname' does not exist in table 'table2'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:29:31] Join operation successful. Fields copied from tables [myTable, table2] to new table 'joinedTable' in target database 'mypeople'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:30:25][time:1686321025147]Database 'myDatabase' already exists.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:30:25]Table 'myTable' already exists in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:30:25]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:30:25]Added field items to 'age' in table 'myTable' of database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:30:25]Table 'table2' already exists in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:30:25] Field 'field3' does not exist in table 'myTable'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:30:25] Field 'fullname' does not exist in table 'table2'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:30:25] Join operation successful. Fields copied from tables [myTable, table2] to new table 'joinedTable' in target database 'mypeople'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:50:2][time:1686322202301]Database 'myDatabase' already exists.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:50:2]Table 'myTable' already exists in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:50:2]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:50:2]Added field items to 'age' in table 'myTable' of database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:50:2]Table 'table2' already exists in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:50:2] Field 'field3' does not exist in table 'myTable'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:50:2] Field 'fullname' does not exist in table 'table2'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:50:2] Join operation successful. Fields copied from tables [myTable, table2] to new table 'joinedTable' in target database 'mypeople'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:50:2] Joined table exported to 'export_table_joinedTable.csv'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:56:35][time:1686322595348]Database 'myDatabase' already exists.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:56:35]Table 'myTable' already exists in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:56:35]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:56:35]Added field items to 'age' in table 'myTable' of database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:56:35]Table 'table2' already exists in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:56:35] Field 'field3' does not exist in table 'myTable'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:56:35] Field 'fullname' does not exist in table 'table2'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:56:35] Join operation successful. Fields copied from tables [myTable, table2] to new table 'joinedTable' in target database 'mypeople'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:56:56][time:1686322616988]Database 'myDatabase' already exists.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:56:56]Table 'myTable' already exists in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:56:56]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:56:56]Added field items to 'age' in table 'myTable' of database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:56:56]Table 'table2' already exists in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:56:57] Field 'field3' does not exist in table 'myTable'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:56:57] Field 'fullname' does not exist in table 'table2'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:56:57] Join operation successful. Fields copied from tables [myTable, table2] to new table 'joinedTable' in target database 'mypeople'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:56:57] Joined table exported to 'export_table_joinedTable.csv'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:59:24][time:1686322764719]Database 'myDatabase' already exists.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:59:24]Table 'myTable' already exists in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:59:24]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:59:24]Added field items to 'age' in table 'myTable' of database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:59:24]Table 'table2' already exists in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:59:24] Field 'field3' does not exist in table 'myTable'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:59:24] Field 'fullname' does not exist in table 'table2'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:59:24] Join operation successful. Fields copied from tables [myTable, table2] to new table 'joinedTable' in target database 'mypeople'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:59:24] Joined table exported to 'export_table_joinedTable.csv'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:4:17][time:1686323057822]Database 'myDatabase' already exists.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:4:17]Table 'myTable' already exists in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:4:17]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:4:17]Added field items to 'age' in table 'myTable' of database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:4:17]Table 'table2' already exists in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:4:17] Field 'field3' does not exist in table 'myTable'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:4:17] Field 'fullname' does not exist in table 'table2'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:4:17] Join operation successful. Fields copied from tables [myTable, table2] to new table 'joinedTable' in target database 'mypeople'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:4:17] Joined table exported to 'export_table_joinedTable.csv'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:8:34][time:1686323314111]Database 'myDatabase' already exists.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:8:34]Table 'myTable' already exists in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:8:34]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:8:34]Added field items to 'age' in table 'myTable' of database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:8:34]Table 'table2' already exists in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:8:34] Field 'field3' does not exist in table 'myTable'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:8:34] Field 'fullname' does not exist in table 'table2'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:8:34] Join operation successful. Fields copied from tables [myTable, table2] to new table 'joinedTable' in target database 'mypeople'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:8:34] Joined table exported to 'export_table_joinedTable.csv'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:9:7][time:1686323347917]Database 'myDatabase' already exists.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:9:7]Table 'myTable' already exists in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:9:7]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:9:7]Added field items to 'age' in table 'myTable' of database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:9:7]Table 'table2' already exists in database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:9:19][time:1686323359724]Database 'myDatabase' already exists.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:9:19]Table 'myTable' already exists in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:9:19]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:9:19]Added field items to 'age' in table 'myTable' of database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:9:19]Table 'table2' already exists in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:9:19] Field 'field3' does not exist in table 'myTable'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:9:19] Field 'fullname' does not exist in table 'table2'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:9:19] Join operation successful. Fields copied from tables [myTable, table2] to new table 'joinedTable' in target database 'mypeople'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:10:59]Error loading the database: Unexpected end of JSON input
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:10:59]Database 'myDatabase' created.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:10:59]Table 'myTable' created in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:10:59]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:10:59]Added field items to 'username' in table 'myTable' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:10:59]Table 'myUsers' created in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:10:59]Added field items to 'age' in table 'myUsers' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:10:59]Added field items to 'money' in table 'myUsers' of database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:12:33]Error loading the database: Unexpected end of JSON input
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:12:33]Database 'myDatabase' created.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:12:33]Table 'myTable' created in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:12:33]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:12:33]Added field items to 'username' in table 'myTable' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:12:33]Table 'myUsers' created in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:12:33]Added field items to 'age' in table 'myUsers' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:12:33]Added field items to 'money' in table 'myUsers' of database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:13:35]Error loading the database: Unexpected end of JSON input
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:13:35]Database 'myDatabase' created.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:13:35]Table 'myTable' created in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:13:35]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:13:35]Added field items to 'username' in table 'myTable' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:13:35]Table 'myUsers' created in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:13:35]Added field items to 'age' in table 'myUsers' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:13:35]Added field items to 'money' in table 'myUsers' of database 'myDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:19:14]Error loading the database: Unexpected end of JSON input
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:19:14]Database 'myDatabase' created.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:19:14]Table 'myTable' created in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:19:14]Added field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:19:14]Added field items to 'username' in table 'myTable' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:19:14]Table 'myUsers' created in database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:19:14]Added field items to 'age' in table 'myUsers' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:19:14]Added field items to 'money' in table 'myUsers' of database 'myDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:19:14] Created new target database 'peopledb'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:19:38] Created new target database 'peopledb'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:21:5] Created new target database 'peopledb'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:22:1] Created new target database 'peopledb'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:22:4] Created new target database 'peopledb'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:23:34] Created new target database 'peopledb'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:23:34] Field 'money' does not exist in table 'myTable'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:23:34] Field 'fullname' does not exist in table 'myUsers'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:23:34] Join operation successful. Fields copied from tables [myTable, myUsers] to new table 'joinedTable' in target database 'peopledb'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:23:55] Created new target database 'people'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:23:55] Field 'money' does not exist in table 'myTable'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:23:55] Field 'fullname' does not exist in table 'myUsers'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:23:55] Join operation successful. Fields copied from tables [myTable, myUsers] to new table 'joinedTable' in target database 'people'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:25:6] Field 'money' does not exist in table 'myTable'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:25:6] Field 'fullname' does not exist in table 'myUsers'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:25:6] Join operation successful. Fields copied from tables [myTable, myUsers] to new table 'joinedTable' in target database 'people'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:26:31] Field 'money' does not exist in table 'myTable'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:26:31] Field 'fullname' does not exist in table 'myUsers'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:26:31] Join operation successful. Fields copied from tables [myTable, myUsers] to new table 'joinedTable' in target database 'myDatabase'.
+[loginfo] Creating a new database...
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:47:38]Database 'CompanyDatabase' created.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:47:38]Table 'UserTable' created in database 'CompanyDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:51:45]Error loading the database: Unexpected end of JSON input
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:51:45]Database 'CompanyDatabase' created.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:51:45]Table 'UserTable' created in database 'CompanyDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:53:47]Added field items to 'fullname' in table 'UserTable' of database 'CompanyDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:53:47]Added field items to 'fullemail' in table 'UserTable' of database 'CompanyDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:58:6]Added field items to 'fullname' in table 'UserTable' of database 'CompanyDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:58:6]Added field items to 'fullemail' in table 'UserTable' of database 'CompanyDatabase'.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:39:52]Error loading the database: Unexpected end of JSON input
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:39:52]Database 'CompanyDatabase' created.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:39:52]Table 'UserTable' created in database 'CompanyDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:39:52]Added field items to 'fullname' in table 'UserTable' of database 'CompanyDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:39:52]Added field items to 'fullusername' in table 'UserTable' of database 'CompanyDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:39:52]Added field items to 'fullemail' in table 'UserTable' of database 'CompanyDatabase'.
+[loginfo] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:39:52]Added field items to 'fullpassword' in table 'UserTable' of database 'CompanyDatabase'.

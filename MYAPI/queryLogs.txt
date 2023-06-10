@@ -1,0 +1,1280 @@
+[loginfo querry] [(dd/mm/yy):7/5/2023][time(hh/mm/ss):22:1:29]Database 'myDatabase' created.
+[loginfo querry] [(dd/mm/yy):7/5/2023][time(hh/mm/ss):22:1:29]Table 'myTable' created in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):7/5/2023][time(hh/mm/ss):22:1:29]Added unique field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):7/5/2023][time(hh/mm/ss):22:1:29]Added unique field items to 'username' in table 'myTable' of database 'myDatabase'.
+[logerror querry] [(dd/mm/yy):7/5/2023][time(hh/mm/ss):22:2:6]Database 'myDatabase' already exists.
+[logerror querry] [(dd/mm/yy):7/5/2023][time(hh/mm/ss):22:2:6]Table 'myTable' already exists in database 'myDatabase'.
+[logerror querry] [(dd/mm/yy):7/5/2023][time(hh/mm/ss):22:2:6]Field item with the same content already exists in 'fullname' of table 'myTable' in database 'myDatabase'.
+[logerror querry] [(dd/mm/yy):7/5/2023][time(hh/mm/ss):22:2:6]Field item with the same content already exists in 'username' of table 'myTable' in database 'myDatabase'.
+[logerror querry] [(dd/mm/yy):7/5/2023][time(hh/mm/ss):22:5:5]Database 'myDatabase' already exists.
+[logerror querry] [(dd/mm/yy):7/5/2023][time(hh/mm/ss):22:5:5]Table 'myTable' already exists in database 'myDatabase'.
+[logerror querry] [(dd/mm/yy):7/5/2023][time(hh/mm/ss):22:5:5]Field item with the same content already exists in 'fullname' of table 'myTable' in database 'myDatabase'.
+[logerror querry] [(dd/mm/yy):7/5/2023][time(hh/mm/ss):22:5:5]Field item with the same content already exists in 'username' of table 'myTable' in database 'myDatabase'.
+[logerror querry] [(dd/mm/yy):7/5/2023][time(hh/mm/ss):22:5:38]Database 'myDatabase' already exists.
+[logerror querry] [(dd/mm/yy):7/5/2023][time(hh/mm/ss):22:5:38]Table 'myTable' already exists in database 'myDatabase'.
+[logerror querry] [(dd/mm/yy):7/5/2023][time(hh/mm/ss):22:5:38]Field item with the same content already exists in 'fullname' of table 'myTable' in database 'myDatabase'.
+[logerror querry] [(dd/mm/yy):7/5/2023][time(hh/mm/ss):22:5:38]Field item with the same content already exists in 'username' of table 'myTable' in database 'myDatabase'.
+[logerror querry] [(dd/mm/yy):7/5/2023][time(hh/mm/ss):22:6:5]Database 'myDatabase' already exists.
+[logerror querry] [(dd/mm/yy):7/5/2023][time(hh/mm/ss):22:6:5]Table 'myTable' already exists in database 'myDatabase'.
+[logerror querry] [(dd/mm/yy):7/5/2023][time(hh/mm/ss):22:6:5]Field item with the same content already exists in 'fullname' of table 'myTable' in database 'myDatabase'.
+[logerror querry] [(dd/mm/yy):7/5/2023][time(hh/mm/ss):22:6:5]Field item with the same content already exists in 'username' of table 'myTable' in database 'myDatabase'.
+[logerror querry] [(dd/mm/yy):7/5/2023][time(hh/mm/ss):22:9:26]Database 'myDatabase' already exists.
+[logerror querry] [(dd/mm/yy):7/5/2023][time(hh/mm/ss):22:9:26]Table 'myTable' already exists in database 'myDatabase'.
+[logerror querry] [(dd/mm/yy):7/5/2023][time(hh/mm/ss):22:9:26]Field item with the same content already exists in 'fullname' of table 'myTable' in database 'myDatabase'.
+[logerror querry] [(dd/mm/yy):7/5/2023][time(hh/mm/ss):22:9:26]Field item with the same content already exists in 'username' of table 'myTable' in database 'myDatabase'.
+[logerror querry] [(dd/mm/yy):7/5/2023][time(hh/mm/ss):22:45:54]Database 'myDatabase' already exists.
+[logerror querry] [(dd/mm/yy):7/5/2023][time(hh/mm/ss):22:45:54]Table 'myTable' already exists in database 'myDatabase'.
+[logerror querry] [(dd/mm/yy):7/5/2023][time(hh/mm/ss):22:45:54]Field item with the same content already exists in 'fullname' of table 'myTable' in database 'myDatabase'.
+[logerror querry] [(dd/mm/yy):7/5/2023][time(hh/mm/ss):22:45:54]Field item with the same content already exists in 'username' of table 'myTable' in database 'myDatabase'.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):10:23:47]Database 'myDatabase' already exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):10:23:47]Table 'myTable' already exists in database 'myDatabase'.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):10:23:47]Field item with the same content already exists in 'fullname' of table 'myTable' in database 'myDatabase'.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):10:23:47]Field 'username' does not exist in table 'myTable' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):11:39:8]Database 'myDatabase' created.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):11:39:8]Table 'myTable' created in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):11:39:8]Added unique field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):11:39:8]Added unique field items to 'username' in table 'myTable' of database 'myDatabase'.
+[logerror querry] Failed to rename database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:3:8]Database 'myDatabase' created.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:3:8]Table 'myTable' created in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:3:8]Added unique field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:3:8]Added unique field items to 'username' in table 'myTable' of database 'myDatabase'.
+[loginfo querry] Database 'myDatabase' deleted.
+[loginfo] Deleted all data from database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:3:21]Database 'myDatabase' created.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:3:21]Table 'myTable' created in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:3:21]Added unique field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:3:21]Added unique field items to 'username' in table 'myTable' of database 'myDatabase'.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:7:14]Database 'myDatabase' already exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:7:14]Table 'myTable' already exists in database 'myDatabase'.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:7:14]Field item with the same content already exists in 'fullname' of table 'myTable' in database 'myDatabase'.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:7:14]Field item with the same content already exists in 'username' of table 'myTable' in database 'myDatabase'.
+[logerror querry] Failed to rename table 'myTable' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:7:36]Database 'myDatabase' created.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:7:36]Table 'myTable' created in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:7:36]Added unique field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:7:36]Added unique field items to 'username' in table 'myTable' of database 'myDatabase'.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:7:44]Database 'myDatabase' already exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:7:44]Table 'myTable' already exists in database 'myDatabase'.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:7:44]Field item with the same content already exists in 'fullname' of table 'myTable' in database 'myDatabase'.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:7:44]Field item with the same content already exists in 'username' of table 'myTable' in database 'myDatabase'.
+[logerror querry] Failed to rename table 'myTable' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:17:12]Database 'myDatabase' created.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:17:12]Table 'myTable' created in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:17:12]Added unique field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:17:12]Added unique field items to 'username' in table 'myTable' of database 'myDatabase'.
+[logerror querry] Failed to delete table 'myTable' from database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:22:31]Database 'myDatabase' created.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:22:31]Table 'myTable' created in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:22:31]Added unique field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:22:31]Added unique field items to 'username' in table 'myTable' of database 'myDatabase'.
+[logerror querry] Failed to add field 'age' to table 'myTable' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:31:1]Database 'myDatabase' created.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:31:1]Table 'myTable' created in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:31:1]Added unique field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:31:1]Added unique field items to 'username' in table 'myTable' of database 'myDatabase'.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:31:1]Failed to add field 'age' to table 'myTable' in database 'myDatabase'.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:35:24]Database 'myDatabase' already exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:35:24]Table 'myTable' already exists in database 'myDatabase'.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:35:24]Field item with the same content already exists in 'fullname' of table 'myTable' in database 'myDatabase'.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:35:24]Field item with the same content already exists in 'username' of table 'myTable' in database 'myDatabase'.
+[logerror querry] Failed to rename field 'fullname' to 'newFieldname' in table 'myTable' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:35:47]Database 'myDatabase' created.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:35:47]Table 'myTable' created in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:35:47]Added unique field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:35:47]Added unique field items to 'username' in table 'myTable' of database 'myDatabase'.
+[logerror querry] Failed to rename field 'fullname' to 'newFieldname' in table 'myTable' of database 'myDatabase'.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:36:1]Database 'myDatabase' already exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:36:1]Table 'myTable' already exists in database 'myDatabase'.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:36:1]Field 'fullname' does not exist in table 'myTable' of database 'myDatabase'.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:36:1]Field item with the same content already exists in 'username' of table 'myTable' in database 'myDatabase'.
+[logerror querry] Failed to rename field 'fullname' to 'newFieldname' in table 'myTable' of database 'myDatabase'.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:36:6]Database 'myDatabase' already exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:36:6]Table 'myTable' already exists in database 'myDatabase'.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:36:6]Field 'fullname' does not exist in table 'myTable' of database 'myDatabase'.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:36:6]Field item with the same content already exists in 'username' of table 'myTable' in database 'myDatabase'.
+[logerror querry] Failed to rename field 'fullname' to 'newFieldname' in table 'myTable' of database 'myDatabase'.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:36:30]Database 'myDatabase' already exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:36:30]Table 'myTable' already exists in database 'myDatabase'.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:36:30]Field 'fullname' does not exist in table 'myTable' of database 'myDatabase'.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:36:30]Field item with the same content already exists in 'username' of table 'myTable' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:36:39]Database 'myDatabase' created.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:36:39]Table 'myTable' created in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:36:39]Added unique field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:36:39]Added unique field items to 'username' in table 'myTable' of database 'myDatabase'.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:36:51]Database 'myDatabase' already exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:36:51]Table 'myTable' already exists in database 'myDatabase'.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:36:51]Field item with the same content already exists in 'fullname' of table 'myTable' in database 'myDatabase'.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:36:51]Field item with the same content already exists in 'username' of table 'myTable' in database 'myDatabase'.
+[logerror querry] Failed to rename field 'fullname' to 'newFieldname' in table 'myTable' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:37:9]Database 'myDatabase' created.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:37:9]Table 'myTable' created in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:37:9]Added unique field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:37:9]Added unique field items to 'username' in table 'myTable' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:51:6]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:51:6]Database 'myDatabase' already exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:51:6]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:51:6]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:51:6]Table 'myTable' already exists in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:51:6]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:51:6]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:51:6]Field item with the same content already exists in 'fullname' of table 'myTable' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:51:6]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:51:6]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:51:6]Field item with the same content already exists in 'username' of table 'myTable' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:51:6]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:51:6]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:51:6]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:51:6]Database 'myDatabase' exists.
+[logerror querry] Failed to change content with id '01' to 'john' in field 'fullname' of table 'myTable' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:54:4]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:54:4]Database 'myDatabase' already exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:54:4]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:54:4]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:54:4]Table 'myTable' already exists in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:54:4]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:54:4]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:54:4]Added unique field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:54:4]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:54:4]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:54:4]Field item with the same content already exists in 'username' of table 'myTable' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:54:4]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:54:4]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:54:4]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:54:4]Database 'myDatabase' exists.
+[logerror querry] Failed to change content with id '01' to 'john' in field 'fullname' of table 'myTable' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:54:27]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:54:27]Database 'myDatabase' already exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:54:27]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:54:27]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:54:27]Table 'myTable' already exists in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:54:27]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:54:27]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:54:27]Field item with the same content already exists in 'fullname' of table 'myTable' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:54:27]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:54:27]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:54:27]Field item with the same content already exists in 'username' of table 'myTable' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:54:27]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:54:27]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:54:27]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:54:27]Database 'myDatabase' exists.
+[logerror querry] Failed to change content with id '01' to 'john' in field 'fullname' of table 'myTable' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:55:34]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:55:34]Database 'myDatabase' already exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:55:34]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:55:34]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:55:34]Table 'myTable' already exists in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:55:34]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:55:34]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:55:34]Field item with the same content already exists in 'fullname' of table 'myTable' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:55:34]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:55:34]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:55:34]Field item with the same content already exists in 'username' of table 'myTable' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:55:34]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:55:34]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:55:34]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:55:34]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):12:55:34]Failed to change content with id '01' to 'john' in field 'fullname' of table 'myTable' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:3:43]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:3:43]Database 'myDatabase' already exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:3:43]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:3:43]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:3:43]Table 'myTable' already exists in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:3:43]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:3:43]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:3:43]Field item with the same content already exists in 'fullname' of table 'myTable' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:3:43]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:3:43]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:3:43]Field item with the same content already exists in 'username' of table 'myTable' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:3:43]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:3:43]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:3:43]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:3:43]Database 'myDatabase' exists.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:3:43]Failed to change field 'fullname' content in table 'myTable' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:4:3]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:4:3]Database 'myDatabase' already exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:4:3]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:4:3]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:4:3]Table 'myTable' already exists in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:4:3]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:4:3]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:4:3]Field item with the same content already exists in 'fullname' of table 'myTable' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:4:3]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:4:3]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:4:3]Field item with the same content already exists in 'username' of table 'myTable' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:4:3]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:4:3]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:4:19]Database 'myDatabase' does not exist.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:4:19]Database 'myDatabase' created.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:4:19]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:4:19]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:4:19]Table 'myTable' created in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:4:19]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:4:19]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:4:19]Added unique field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:4:19]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:4:19]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:4:19]Added unique field items to 'username' in table 'myTable' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:4:19]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:4:19]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:4:31]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:4:31]Database 'myDatabase' already exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:4:31]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:4:31]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:4:31]Table 'myTable' already exists in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:4:31]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:4:31]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:4:31]Field item with the same content already exists in 'fullname' of table 'myTable' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:4:31]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:4:31]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:4:31]Field item with the same content already exists in 'username' of table 'myTable' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:4:31]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:4:31]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:4:45]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:4:45]Database 'myDatabase' already exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:4:45]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:4:45]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:4:45]Table 'myTable' already exists in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:4:45]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:4:45]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:4:45]Field item with the same content already exists in 'fullname' of table 'myTable' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:4:45]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:4:45]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:4:45]Field item with the same content already exists in 'username' of table 'myTable' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:4:45]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:4:45]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:4:45]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:4:45]Database 'myDatabase' exists.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:4:45]Failed to change field 'fullname' content in table 'myTable' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:5:11]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:5:11]Database 'myDatabase' already exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:5:11]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:5:11]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:5:11]Table 'myTable' already exists in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:5:11]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:5:11]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:5:11]Field item with the same content already exists in 'fullname' of table 'myTable' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:5:11]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:5:11]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:5:11]Field item with the same content already exists in 'username' of table 'myTable' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:5:11]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:5:11]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:5:11]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:5:11]Database 'myDatabase' exists.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:5:11]Failed to change field 'fullname' content in table 'myTable' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:5:46]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:5:46]Database 'myDatabase' already exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:5:46]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:5:46]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:5:46]Table 'myTable' already exists in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:5:46]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:5:46]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:5:46]Added unique field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:5:46]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:5:46]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:5:46]Field item with the same content already exists in 'username' of table 'myTable' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:5:46]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:5:46]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:12:48]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:12:48]Database 'myDatabase' already exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:12:48]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:12:48]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:12:48]Table 'myTable' already exists in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:12:48]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:12:48]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:12:48]Field item with the same content already exists in 'fullname' of table 'myTable' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:12:48]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:12:48]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:12:48]Field item with the same content already exists in 'username' of table 'myTable' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:12:48]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:12:48]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:12:48]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:12:48]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:12:48]Failed to delete field 'username' from table 'myTable' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:17:33]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:17:33]Database 'myDatabase' already exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:17:33]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:17:33]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:17:33]Table 'myTable' already exists in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:17:33]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:17:33]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:17:33]Field item with the same content already exists in 'fullname' of table 'myTable' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:17:33]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:17:33]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:17:33]Field 'username' does not exist in table 'myTable' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:17:33]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:17:33]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:17:33]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:17:33]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:17:33]Failed to delete field content 'john' from field 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:21:44]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:21:44]Database 'myDatabase' already exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:21:44]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:21:44]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:21:44]Table 'myTable' already exists in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:21:44]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:21:44]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:21:44]Field item with the same content already exists in 'fullname' of table 'myTable' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:21:44]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:21:44]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:21:44]Field 'username' does not exist in table 'myTable' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:21:44]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:21:44]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:21:44]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:21:44]Database 'myDatabase' exists.
+[logerror] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:21:44]Failed to change field 'fullname' content in table 'myTable' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:21:53]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:21:53]Database 'myDatabase' already exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:21:53]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:21:53]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:21:53]Table 'myTable' already exists in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:21:53]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:21:53]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:21:53]Added unique field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:21:53]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:21:53]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:21:53]Field 'username' does not exist in table 'myTable' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:21:53]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:21:53]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:22:4]Database 'myDatabase' does not exist.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:22:4]Database 'myDatabase' created.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:22:4]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:22:4]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:22:4]Table 'myTable' created in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:22:4]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:22:4]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:22:4]Added unique field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:22:4]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:22:4]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:22:4]Added unique field items to 'username' in table 'myTable' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:22:4]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:22:4]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:22:29]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:22:29]Database 'myDatabase' already exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:22:29]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:22:29]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:22:29]Table 'myTable' already exists in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:22:29]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:22:29]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:22:29]Added unique field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:22:29]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:22:29]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:22:29]Field item with the same content already exists in 'username' of table 'myTable' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:22:29]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:22:29]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:22:52]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:22:52]Database 'myDatabase' already exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:22:52]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:22:52]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:22:52]Table 'myTable' already exists in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:22:52]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:22:52]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:22:52]Field item with the same content already exists in 'fullname' of table 'myTable' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:22:52]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:22:52]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:22:52]Field item with the same content already exists in 'username' of table 'myTable' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:22:52]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:22:52]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:22:52]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:22:52]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:22:52]Failed to delete all field content 'john' from field 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:23:58]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:23:58]Database 'myDatabase' already exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:23:58]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:23:58]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:23:58]Table 'myTable' already exists in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:23:58]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:23:58]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:23:58]Field item with the same content already exists in 'fullname' of table 'myTable' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:23:58]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:23:58]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:23:58]Field item with the same content already exists in 'username' of table 'myTable' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:23:58]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:23:58]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:52:50]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:52:50]Database 'myDatabase' already exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:52:50]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:52:50]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:52:50]Table 'myTable' already exists in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:52:50]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:52:50]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:52:50]Field item with the same content already exists in 'fullname' of table 'myTable' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:52:50]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:52:50]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:52:50]Field item with the same content already exists in 'username' of table 'myTable' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:52:50]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):13:52:50]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:4:46]Database 'myDatabase' does not exist.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:4:46]Database 'myDatabase' created.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:4:46]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:4:46]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:4:46]Table 'myTable' created in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:4:46]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:4:46]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:4:46]Added unique field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:4:46]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:4:46]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:4:46]Added unique field items to 'username' in table 'myTable' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:4:46]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:4:46]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:4:46]Table 'myUsers' created in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:4:46]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:4:46]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:4:46]Added unique field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:4:46]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:4:46]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:4:46]Added unique field items to 'username' in table 'myTable' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:4:46]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:4:46]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:8:0]Database 'myDatabase' does not exist.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:8:0]Database 'myDatabase' created.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:8:0]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:8:0]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:8:0]Table 'myTable' created in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:8:0]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:8:0]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:8:0]Added unique field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:8:0]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:8:0]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:8:0]Added unique field items to 'username' in table 'myTable' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:8:0]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:8:0]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:8:0]Table 'myUsers' created in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:8:0]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:8:0]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:8:0]Field 'age' does not exist in table 'myUsers' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:8:0]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:8:0]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:8:0]Field 'money' does not exist in table 'myUsers' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:8:0]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:8:0]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:8:0]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:8:0]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:8:0]Database 'myDatabase' exists.
+[logerror logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):Field 'money' does not exist in table 'myTable'.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:8:0]Field 'money' does not exist in table 'myTable'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:8:39]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:8:39]Database 'myDatabase' already exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:8:39]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:8:39]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:8:39]Table 'myTable' already exists in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:8:39]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:8:39]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:8:39]Field item with the same content already exists in 'fullname' of table 'myTable' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:8:39]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:8:39]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:8:39]Field item with the same content already exists in 'username' of table 'myTable' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:8:39]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:8:39]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:8:39]Table 'myUsers' already exists in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:8:39]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:8:39]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:8:39]Field 'age' does not exist in table 'myUsers' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:8:39]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:8:39]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:8:39]Field 'money' does not exist in table 'myUsers' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:8:39]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:8:39]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:8:39]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:8:39]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:8:39]Database 'myDatabase' exists.
+[logerror logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):Field 'money' does not exist in table 'myTable'.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:8:39]Field 'money' does not exist in table 'myTable'.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:9:32]Database 'myDatabase' does not exist.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:9:32]Database 'myDatabase' created.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:9:32]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:9:32]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:9:32]Table 'myTable' created in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:9:32]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:9:32]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:9:32]Added unique field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:9:32]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:9:32]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:9:32]Added unique field items to 'username' in table 'myTable' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:9:32]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:9:32]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:9:32]Table 'myUsers' created in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:9:32]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:9:32]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:9:32]Added unique field items to 'age' in table 'myUsers' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:9:32]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:9:32]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:9:32]Added unique field items to 'money' in table 'myUsers' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:9:32]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:9:32]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:9:32]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:9:32]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:9:32]Database 'myDatabase' exists.
+[logerror logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):Field 'money' does not exist in table 'myTable'.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:9:32]Field 'money' does not exist in table 'myTable'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:10:39]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:10:39]Database 'myDatabase' already exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:10:39]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:10:39]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:10:39]Table 'myTable' already exists in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:10:39]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:10:39]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:10:39]Field item with the same content already exists in 'fullname' of table 'myTable' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:10:39]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:10:39]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:10:39]Field item with the same content already exists in 'username' of table 'myTable' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:10:39]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:10:39]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:10:39]Table 'myUsers' already exists in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:10:39]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:10:39]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:10:39]Field item with the same content already exists in 'age' of table 'myUsers' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:10:39]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:10:39]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:10:39]Field item with the same content already exists in 'money' of table 'myUsers' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:10:39]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:10:39]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:10:39]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:10:39]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:10:39]Database 'myDatabase' exists.
+[logerror logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):Field 'money' does not exist in table 'myTable'.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:10:39]Field 'money' does not exist in table 'myTable'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:11:30]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:11:30]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:11:30]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:11:30]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:11:30]Database 'myDatabase' exists.
+[logerror logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):Field 'money' does not exist in table 'myTable'.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:11:30]Field 'money' does not exist in table 'myTable'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:16:20]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:16:20]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:16:20]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:16:20] joinTable operation failed.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:17:16]Database 'myDatabase' does not exist.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:17:16]Database 'myDatabase' created.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:17:16]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:17:16]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:17:16]Table 'myTable' created in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:17:16]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:17:16]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:17:16]Added unique field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:17:16]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:17:16]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:17:16]Added unique field items to 'username' in table 'myTable' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:17:16]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:17:16]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:17:16]Table 'myUsers' created in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:17:16]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:17:16]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:17:16]Added unique field items to 'age' in table 'myUsers' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:17:16]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:17:16]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:17:16]Added unique field items to 'money' in table 'myUsers' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:17:16]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:17:16]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:17:16]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:17:16] joinTable operation failed.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:40:52]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:40:52]Database 'myDatabase' already exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:40:52]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:40:52]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:40:52]Table 'myTable' already exists in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:40:52]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:40:52]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:40:52]Field item with the same content already exists in 'fullname' of table 'myTable' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:40:52]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:40:52]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:40:52]Field item with the same content already exists in 'username' of table 'myTable' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:40:52]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:40:52]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:40:52]Table 'myUsers' already exists in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:40:52]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:40:52]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:40:52]Field item with the same content already exists in 'age' of table 'myUsers' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:40:52]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:40:52]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:40:52]Field item with the same content already exists in 'money' of table 'myUsers' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:40:52]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:40:52]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:40:52] Source database 'myDatabase' does not exist.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:41:23]Database 'myDatabase' does not exist.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:41:23]Database 'myDatabase' created.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:41:23]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:41:23]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:41:23]Table 'myTable' created in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:41:23]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:41:23]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:41:23]Added unique field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:41:23]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:41:23]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:41:23]Added unique field items to 'username' in table 'myTable' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:41:23]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:41:23]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:41:23]Table 'myUsers' created in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:41:23]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:41:23]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:41:23]Added unique field items to 'age' in table 'myUsers' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:41:23]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:41:23]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:41:23]Added unique field items to 'money' in table 'myUsers' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:41:23]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:41:23]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:41:23] Source database 'myDatabase' does not exist.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:41:45]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:41:45]Database 'myDatabase' already exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:41:45]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:41:45]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:41:45]Table 'myTable' already exists in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:41:45]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:41:45]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:41:45]Field item with the same content already exists in 'fullname' of table 'myTable' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:41:45]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:41:45]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:41:45]Field item with the same content already exists in 'username' of table 'myTable' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:41:45]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:41:45]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:41:45]Table 'myUsers' already exists in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:41:45]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:41:45]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:41:45]Field item with the same content already exists in 'age' of table 'myUsers' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:41:45]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:41:45]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:41:45]Field item with the same content already exists in 'money' of table 'myUsers' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:41:45]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:41:45]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:41:45] Source database 'myDatabase' does not exist.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:43:45]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:43:45]Database 'myDatabase' already exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:43:45]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:43:45]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:43:45]Table 'myTable' already exists in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:43:45]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:43:45]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:43:45]Field item with the same content already exists in 'fullname' of table 'myTable' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:43:45]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:43:45]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:43:45]Field item with the same content already exists in 'username' of table 'myTable' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:43:45]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:43:45]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:43:45]Table 'myUsers' already exists in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:43:45]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:43:45]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:43:45]Field item with the same content already exists in 'age' of table 'myUsers' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:43:45]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:43:45]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:43:45]Field item with the same content already exists in 'money' of table 'myUsers' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:43:45]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:43:45]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:43:45] Source database 'myDatabase' does not exist.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:47:49]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:47:49]Database 'myDatabase' already exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:47:49]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:47:49]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:47:49]Table 'myTable' already exists in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:47:49]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:47:49]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:47:49]Field item with the same content already exists in 'fullname' of table 'myTable' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:47:49]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:47:49]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:47:49]Field item with the same content already exists in 'username' of table 'myTable' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:47:49]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:47:49]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:47:49]Table 'myUsers' already exists in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:47:49]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:47:49]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:47:49]Field item with the same content already exists in 'age' of table 'myUsers' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:47:49]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:47:49]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:47:49]Field item with the same content already exists in 'money' of table 'myUsers' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:47:49]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:47:49]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:47:49] Source database 'myDatabase' does not exist.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:49:30]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:49:30]Database 'myDatabase' already exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:49:30]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:49:30]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:49:30]Table 'myTable' already exists in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:49:30]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:49:30]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:49:30]Field item with the same content already exists in 'fullname' of table 'myTable' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:49:30]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:49:30]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:49:30]Field item with the same content already exists in 'username' of table 'myTable' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:49:30]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:49:30]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:49:30]Table 'myUsers' already exists in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:49:30]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:49:30]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:49:30]Field item with the same content already exists in 'age' of table 'myUsers' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:49:30]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:49:30]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:49:30]Field item with the same content already exists in 'money' of table 'myUsers' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:49:30]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:49:30]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:49:30]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:49:30]Database 'peopledb' does not exist.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:49:30] Target database 'peopledb' does not exist.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:50:13]Database 'myDatabase' does not exist.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:50:13]Database 'myDatabase' created.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:50:13]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:50:13]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:50:13]Table 'myTable' created in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:50:13]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:50:13]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:50:13]Added unique field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:50:13]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:50:13]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:50:13]Added unique field items to 'username' in table 'myTable' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:50:13]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:50:13]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:50:13]Table 'myUsers' created in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:50:13]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:50:13]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:50:13]Added unique field items to 'age' in table 'myUsers' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:50:13]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:50:13]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:50:13]Added unique field items to 'money' in table 'myUsers' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:50:13]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:50:13]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:50:13]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:50:13]Database 'peopledb' does not exist.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:50:13] Target database 'peopledb' does not exist.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:51:26]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:51:26]Database 'myDatabase' already exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:51:26]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:51:26]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:51:26]Table 'myTable' already exists in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:51:26]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:51:26]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:51:26]Field item with the same content already exists in 'fullname' of table 'myTable' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:51:26]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:51:26]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:51:26]Field item with the same content already exists in 'username' of table 'myTable' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:51:26]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:51:26]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:51:26]Table 'myUsers' already exists in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:51:26]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:51:26]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:51:26]Field item with the same content already exists in 'age' of table 'myUsers' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:51:26]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:51:26]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:51:26]Field item with the same content already exists in 'money' of table 'myUsers' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:51:26]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:51:26]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:51:26]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:51:26]Database 'peopledb' does not exist.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):16:51:26] Target database 'peopledb' does not exist.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:24:37]Database 'myDatabase' does not exist.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:24:37]Database 'myDatabase' created.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:24:37]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:24:37]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:24:37]Table 'myTable' created in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:24:37]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:24:37]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:24:37]Added unique field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:24:37]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:24:37]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:24:37]Added unique field items to 'username' in table 'myTable' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:24:37]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:24:37]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:24:37]Table 'myUsers' created in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:24:37]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:24:37]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:24:37]Added unique field items to 'age' in table 'myUsers' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:24:37]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:24:37]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:24:37]Added unique field items to 'money' in table 'myUsers' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:24:37]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:24:37]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:24:37]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:24:37]Database 'peopledb' does not exist.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:24:37] Target database 'peopledb' does not exist.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:27:17]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:27:17]Database 'myDatabase' already exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:27:17]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:27:17]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:27:17]Table 'myTable' already exists in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:27:17]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:27:17]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:27:17]Field item with the same content already exists in 'fullname' of table 'myTable' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:27:17]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:27:17]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:27:17]Field item with the same content already exists in 'username' of table 'myTable' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:27:17]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:27:17]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:27:17]Table 'myUsers' already exists in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:27:17]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:27:17]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:27:17]Field item with the same content already exists in 'age' of table 'myUsers' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:27:17]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:27:17]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:27:17]Field item with the same content already exists in 'money' of table 'myUsers' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:27:17]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:27:17]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:27:17]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:27:17]Database 'peopledb' does not exist.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:27:17] Target database 'peopledb' does not exist.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:27:31]Database 'myDatabase' does not exist.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:27:31]Database 'myDatabase' created.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:27:31]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:27:31]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:27:31]Table 'myTable' created in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:27:31]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:27:31]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:27:31]Added unique field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:27:31]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:27:31]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:27:31]Added unique field items to 'username' in table 'myTable' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:27:31]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:27:31]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:27:31]Table 'myUsers' created in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:27:31]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:27:31]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:27:31]Added unique field items to 'age' in table 'myUsers' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:27:31]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:27:31]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:27:31]Added unique field items to 'money' in table 'myUsers' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:27:31]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:27:31]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:27:31]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:27:31]Database 'peopledb' does not exist.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):17:27:31] Target database 'peopledb' does not exist.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:12:24]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:12:24]Database 'myDatabase' already exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:12:24]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:12:24]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:12:24]Table 'myTable' already exists in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:12:24]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:12:24]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:12:24]Field item with the same content already exists in 'fullname' of table 'myTable' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:12:24]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:12:24]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:12:24]Field item with the same content already exists in 'username' of table 'myTable' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:12:24]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:12:24]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:12:24]Table 'myUsers' already exists in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:12:24]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:12:24]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:12:24]Field item with the same content already exists in 'age' of table 'myUsers' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:12:24]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:12:24]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:12:24]Field item with the same content already exists in 'money' of table 'myUsers' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:12:24]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:12:24]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:12:24]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:12:24]Database 'peopledb' does not exist.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:12:24] Target database 'peopledb' does not exist.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:12:33]Database 'myDatabase' does not exist.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:12:33]Database 'myDatabase' created.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:12:33]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:12:33]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:12:33]Table 'myTable' created in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:12:33]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:12:33]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:12:33]Added unique field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:12:33]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:12:33]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:12:33]Added unique field items to 'username' in table 'myTable' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:12:33]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:12:33]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:12:33]Table 'myUsers' created in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:12:33]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:12:33]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:12:33]Added unique field items to 'age' in table 'myUsers' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:12:33]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:12:33]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:12:33]Added unique field items to 'money' in table 'myUsers' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:12:33]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:12:33]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:12:33]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:12:33]Database 'peopledb' does not exist.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:12:34] Target database 'peopledb' does not exist.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:13:21]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:13:21]Database 'myDatabase' already exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:13:21]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:13:21]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:13:21]Table 'myTable' already exists in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:13:21]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:13:21]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:13:21]Field item with the same content already exists in 'fullname' of table 'myTable' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:13:21]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:13:21]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:13:21]Field item with the same content already exists in 'username' of table 'myTable' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:13:21]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:13:21]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:13:21]Table 'myUsers' already exists in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:13:21]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:13:21]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:13:21]Field item with the same content already exists in 'age' of table 'myUsers' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:13:21]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:13:21]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:13:21]Field item with the same content already exists in 'money' of table 'myUsers' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:13:21]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:13:21]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:13:21]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:13:21]Database 'peopledb' does not exist.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:13:21] Target database 'peopledb' does not exist.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:13:35]Database 'myDatabase' does not exist.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:13:35]Database 'myDatabase' created.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:13:35]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:13:35]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:13:35]Table 'myTable' created in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:13:35]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:13:35]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:13:35]Added unique field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:13:35]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:13:35]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:13:35]Added unique field items to 'username' in table 'myTable' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:13:35]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:13:35]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:13:35]Table 'myUsers' created in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:13:35]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:13:35]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:13:35]Added unique field items to 'age' in table 'myUsers' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:13:35]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:13:35]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:13:35]Added unique field items to 'money' in table 'myUsers' of database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:13:35]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:13:35]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:13:35]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:13:35]Database 'peopledb' does not exist.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:13:35] Target database 'peopledb' does not exist.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:23:34]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:23:34]Database 'myDatabase' already exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:23:34]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:23:34]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:23:34]Table 'myTable' already exists in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:23:34]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:23:34]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:23:34]Field item with the same content already exists in 'fullname' of table 'myTable' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:23:34]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:23:34]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:23:34]Field item with the same content already exists in 'username' of table 'myTable' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:23:34]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:23:34]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:23:34]Table 'myUsers' already exists in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:23:34]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:23:34]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:23:34]Field item with the same content already exists in 'age' of table 'myUsers' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:23:34]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:23:34]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:23:34]Field item with the same content already exists in 'money' of table 'myUsers' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:23:34]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:23:34]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:23:34]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:23:34] joinToNewDatabaseAndTable operation failed.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:23:55]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:23:55]Database 'myDatabase' already exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:23:55]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:23:55]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:23:55]Table 'myTable' already exists in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:23:55]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:23:55]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:23:55]Field item with the same content already exists in 'fullname' of table 'myTable' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:23:55]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:23:55]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:23:55]Field item with the same content already exists in 'username' of table 'myTable' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:23:55]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:23:55]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:23:55]Table 'myUsers' already exists in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:23:55]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:23:55]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:23:55]Field item with the same content already exists in 'age' of table 'myUsers' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:23:55]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:23:55]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:23:55]Field item with the same content already exists in 'money' of table 'myUsers' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:23:55]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:23:55]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:23:55]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:23:55] joinToNewDatabaseAndTable operation failed.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:25:6]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:25:6]Database 'myDatabase' already exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:25:6]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:25:6]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:25:6]Table 'myTable' already exists in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:25:6]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:25:6]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:25:6]Field item with the same content already exists in 'fullname' of table 'myTable' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:25:6]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:25:6]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:25:6]Field item with the same content already exists in 'username' of table 'myTable' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:25:6]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:25:6]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:25:6]Table 'myUsers' already exists in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:25:6]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:25:6]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:25:6]Field item with the same content already exists in 'age' of table 'myUsers' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:25:6]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:25:6]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:25:6]Field item with the same content already exists in 'money' of table 'myUsers' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:25:6]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:25:6]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:25:6] joinToNewDatabaseAndTable operation failed.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:26:31]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:26:31]Database 'myDatabase' already exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:26:31]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:26:31]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:26:31]Table 'myTable' already exists in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:26:31]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:26:31]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:26:31]Field item with the same content already exists in 'fullname' of table 'myTable' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:26:31]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:26:31]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:26:31]Field item with the same content already exists in 'username' of table 'myTable' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:26:31]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:26:31]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:26:31]Table 'myUsers' already exists in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:26:31]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:26:31]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:26:31]Field item with the same content already exists in 'age' of table 'myUsers' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:26:31]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:26:31]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:26:31]Field item with the same content already exists in 'money' of table 'myUsers' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:26:31]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:26:31]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:26:31] joinToNewDatabaseAndTable operation failed.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:27:39]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:27:39]Database 'myDatabase' already exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:27:39]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:27:39]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:27:39]Table 'myTable' already exists in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:27:39]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:27:39]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:27:39]Field item with the same content already exists in 'fullname' of table 'myTable' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:27:39]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:27:39]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:27:39]Field item with the same content already exists in 'username' of table 'myTable' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:27:39]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:27:39]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:27:39]Table 'myUsers' already exists in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:27:39]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:27:39]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:27:39]Field item with the same content already exists in 'age' of table 'myUsers' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:27:39]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:27:39]Database 'myDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:27:39]Field item with the same content already exists in 'money' of table 'myUsers' in database 'myDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:27:39]Database 'myDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:45:28]Database 'CompanyDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:45:28]Database 'CompanyDatabase' already exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:45:28]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:45:28]Database 'CompanyDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:45:28]Table 'UserTable' already exists in database 'CompanyDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:45:28]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:45:28]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:45:28]Database 'CompanyDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:45:28]Database 'CompanyDatabase' already exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:45:28]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:45:28]Database 'CompanyDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:45:28]Table 'UserTable' already exists in database 'CompanyDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:45:28]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:45:28]Database 'CompanyDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:47:38]Database 'CompanyDatabase' does not exist.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:47:38]Database 'CompanyDatabase' created.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:47:38]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:47:38]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:47:38]Table 'UserTable' created in database 'CompanyDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:47:38]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:47:38]Database 'CompanyDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:47:38]Content 'peter@gmail.com' does not exist in field 'fullemail' of table 'UserTable'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:47:38]Database 'CompanyDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:47:38]Database 'CompanyDatabase' already exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:47:38]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:47:38]Database 'CompanyDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:47:38]Table 'UserTable' already exists in database 'CompanyDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:47:38]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:47:38]Database 'CompanyDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:47:38]Content 'peter@gmail.com' does not exist in field 'fullemail' of table 'UserTable'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:47:38]Database 'CompanyDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:47:38]Database 'CompanyDatabase' already exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:47:38]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:47:38]Database 'CompanyDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:47:38]Table 'UserTable' already exists in database 'CompanyDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:47:38]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:47:38]Database 'CompanyDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:47:38]Content 'peter@gmail.com' does not exist in field 'fullemail' of table 'UserTable'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:47:38]Database 'CompanyDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:47:38]Database 'CompanyDatabase' already exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:47:38]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:47:38]Database 'CompanyDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:47:38]Table 'UserTable' already exists in database 'CompanyDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:47:38]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:47:38]Database 'CompanyDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:47:38]Content 'peter@gmail.com' does not exist in field 'fullemail' of table 'UserTable'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:47:38]Database 'CompanyDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:47:38]Database 'CompanyDatabase' already exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:47:38]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:47:38]Database 'CompanyDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:47:38]Table 'UserTable' already exists in database 'CompanyDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:47:38]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:47:38]Database 'CompanyDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:47:38]Content 'peter@gmail.com' does not exist in field 'fullemail' of table 'UserTable'.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:51:45]Database 'CompanyDatabase' does not exist.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:51:45]Database 'CompanyDatabase' created.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:51:45]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:51:45]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:51:45]Table 'UserTable' created in database 'CompanyDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:51:45]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:51:45]Database 'CompanyDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:51:45]Content 'peter@gmail.com' does not exist in field 'fullemail' of table 'UserTable'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:52:53]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:53:47]Database 'CompanyDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:53:47]Database 'CompanyDatabase' already exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:53:47]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:53:47]Database 'CompanyDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:53:47]Table 'UserTable' already exists in database 'CompanyDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:53:47]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:53:47]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:53:47]Added unique field items to 'fullname' in table 'UserTable' of database 'CompanyDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:53:47]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:53:47]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:53:47]Added unique field items to 'fullemail' in table 'UserTable' of database 'CompanyDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:54:31]Database 'CompanyDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:54:31]Database 'CompanyDatabase' already exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:54:31]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:54:31]Database 'CompanyDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:54:31]Table 'UserTable' already exists in database 'CompanyDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:54:31]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:54:31]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:54:31]Database 'CompanyDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:54:31]Database 'CompanyDatabase' already exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:54:31]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:54:31]Database 'CompanyDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:54:31]Table 'UserTable' already exists in database 'CompanyDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:54:31]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:54:31]Database 'CompanyDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:54:31]Content 'meshack@gmail.com' does not exist in field 'fullemail' of table 'UserTable'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:55:35]Database 'CompanyDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:55:35]Database 'CompanyDatabase' already exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:55:35]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:55:35]Database 'CompanyDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:55:35]Table 'UserTable' already exists in database 'CompanyDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:55:35]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:55:35]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:55:35]Database 'CompanyDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:55:35]Database 'CompanyDatabase' already exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:55:35]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:55:35]Database 'CompanyDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:55:35]Table 'UserTable' already exists in database 'CompanyDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:55:35]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:55:35]Database 'CompanyDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:55:35]Content 'meshack@gmail.com' does not exist in field 'fullemail' of table 'UserTable'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:58:6]Database 'CompanyDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:58:6]Database 'CompanyDatabase' already exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:58:6]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:58:6]Database 'CompanyDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:58:6]Table 'UserTable' already exists in database 'CompanyDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:58:6]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:58:6]Database 'CompanyDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:58:6]Content 'meshack@gmail.com' does not exist in field 'fullemail' of table 'UserTable'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:58:6]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:58:6]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:58:6]Added unique field items to 'fullname' in table 'UserTable' of database 'CompanyDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:58:6]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:58:6]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:58:6]Added unique field items to 'fullemail' in table 'UserTable' of database 'CompanyDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:58:6]Database 'CompanyDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:58:6]Database 'CompanyDatabase' already exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:58:6]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:58:6]Database 'CompanyDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:58:6]Table 'UserTable' already exists in database 'CompanyDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:58:6]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:58:6]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:58:6]Database 'CompanyDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:58:6]Database 'CompanyDatabase' already exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:58:6]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:58:6]Database 'CompanyDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:58:6]Table 'UserTable' already exists in database 'CompanyDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:58:6]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):18:58:6]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:2:11]Database 'CompanyDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:2:11]Database 'CompanyDatabase' already exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:2:11]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:2:11]Database 'CompanyDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:2:11]Table 'UserTable' already exists in database 'CompanyDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:2:11]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:2:11]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:3:39]Database 'CompanyDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:3:39]Database 'CompanyDatabase' already exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:3:39]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:3:39]Database 'CompanyDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:3:39]Table 'UserTable' already exists in database 'CompanyDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:3:39]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:3:39]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:36:49]Database 'CompanyDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:36:49]Database 'CompanyDatabase' already exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:36:49]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:36:49]Database 'CompanyDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:36:49]Table 'UserTable' already exists in database 'CompanyDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:36:49]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:36:49]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:36:49]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:36:49]Database 'CompanyDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:36:49]Content 'joseph@gmail.com' does not exist in field 'fullemail' of table 'UserTable'.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:39:52]Database 'CompanyDatabase' does not exist.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:39:52]Database 'CompanyDatabase' created.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:39:52]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:39:52]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:39:52]Table 'UserTable' created in database 'CompanyDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:39:52]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:39:52]Database 'CompanyDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:39:52]Content 'joseph' does not exist in field 'fullname' of table 'UserTable'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:39:52]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:39:52]Database 'CompanyDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:39:52]Content 'joseph@gmail.com' does not exist in field 'fullemail' of table 'UserTable'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:39:52]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:39:52]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:39:52]Added unique field items to 'fullname' in table 'UserTable' of database 'CompanyDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:39:52]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:39:52]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:39:52]Added unique field items to 'fullusername' in table 'UserTable' of database 'CompanyDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:39:52]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:39:52]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:39:52]Added unique field items to 'fullemail' in table 'UserTable' of database 'CompanyDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:39:52]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:39:52]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:39:52]Added unique field items to 'fullpassword' in table 'UserTable' of database 'CompanyDatabase'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:39:52]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:41:58]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:41:58]Database 'CompanyDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:41:58]Content 'password' does not exist in field 'fullemail' of table 'UserTable'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:41:58]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:41:58]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:41:58]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:41:58]Database 'CompanyDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:41:58]Content 'password' does not exist in field 'fullemail' of table 'UserTable'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:41:58]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:41:58]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:43:35]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:43:35]Database 'CompanyDatabase' exists.
+[logerror querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:43:35]Content 'password' does not exist in field 'fullemail' of table 'UserTable'.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:43:35]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:43:35]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:44:8]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:44:8]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:44:8]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:44:8]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:45:5]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:45:5]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:45:5]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:45:5]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:45:36]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:46:16]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:46:16]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:46:16]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:46:16]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:49:25]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:51:39]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:53:12]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):19:59:39]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):20:0:6]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):20:0:6]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):20:0:6]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):20:0:6]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):20:1:33]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):20:1:33]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):20:1:33]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):20:1:33]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):20:2:12]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):20:2:12]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):20:2:12]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):20:2:12]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):20:3:2]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):20:3:2]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):20:3:2]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):20:3:2]Database 'CompanyDatabase' exists.
+[loginfo querry] [(dd/mm/yy):9/5/2023][time(hh/mm/ss):20:5:17]Database 'CompanyDatabase' exists.

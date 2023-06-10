@@ -1,0 +1,30 @@
+{
+  "CompanyDatabase": {
+    "UserTable": {
+      "fullname": [
+        {
+          "id": "01",
+          "content": "joseph"
+        }
+      ],
+      "fullusername": [
+        {
+          "id": "01",
+          "content": "josephman"
+        }
+      ],
+      "fullemail": [
+        {
+          "id": "01",
+          "content": "joseph@gmail.com"
+        }
+      ],
+      "fullpassword": [
+        {
+          "id": "01",
+          "content": "password"
+        }
+      ]
+    }
+  }
+}
