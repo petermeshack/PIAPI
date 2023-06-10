@@ -289,6 +289,7 @@ the source database.</p></li>
 <li><p>fieldsToCopy (array): An array of field names to be copied from
 each table.</p></li>
 </ul>
+<br><br><br>
 <p><strong>Class: Database Queries</strong></p>
 <p>Methods (All Methods) Short Explanation:</p>
 <p>This section provides a list of methods for performing various
