@@ -1,0 +1,32 @@
+{
+  "myDatabase": {
+    "myTable": {
+      "fullname": [
+        {
+          "id": "01",
+          "content": "peter"
+        }
+      ],
+      "username": [
+        {
+          "id": "01",
+          "content": "petermeshack"
+        }
+      ]
+    },
+    "myUsers": {
+      "age": [
+        {
+          "id": "01",
+          "content": "15"
+        }
+      ],
+      "money": [
+        {
+          "id": "01",
+          "content": "100"
+        }
+      ]
+    }
+  }
+}

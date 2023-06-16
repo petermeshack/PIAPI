@@ -1,0 +1,42 @@
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):16:26:31][logerror querry] Database 'myDatabase' does not exist.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):16:26:31][loginfo querry] Database 'myDatabase' created.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):16:26:31][loginfo querry] Database 'myDatabase' exists.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):16:26:31][loginfo querry] Database 'myDatabase' exists.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):16:26:31][loginfo querry] Table 'myTable' created in database 'myDatabase'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):16:26:31][loginfo querry] Database 'myDatabase' exists.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):16:26:31][loginfo querry] Database 'myDatabase' exists.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):16:26:31][loginfo querry] Added unique field items to 'fullname' in table 'myTable' of database 'myDatabase'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):16:26:31][loginfo querry] Database 'myDatabase' exists.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):16:26:31][loginfo querry] Database 'myDatabase' exists.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):16:26:31][loginfo querry] Added unique field items to 'username' in table 'myTable' of database 'myDatabase'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):16:26:31][loginfo querry] Database 'myDatabase' exists.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):16:26:31][loginfo querry] Database 'myDatabase' exists.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):16:26:31][loginfo querry] Table 'myUsers' created in database 'myDatabase'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):16:26:31][loginfo querry] Database 'myDatabase' exists.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):16:26:31][loginfo querry] Database 'myDatabase' exists.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):16:26:31][loginfo querry] Added unique field items to 'age' in table 'myUsers' of database 'myDatabase'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):16:26:31][loginfo querry] Database 'myDatabase' exists.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):16:26:31][loginfo querry] Database 'myDatabase' exists.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):16:26:31][loginfo querry] Added unique field items to 'money' in table 'myUsers' of database 'myDatabase'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):16:26:31][loginfo querry] Database 'myDatabase' exists.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):16:26:40][loginfo querry] Database 'myDatabase' exists.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):16:26:40][logerror querry] Database 'myDatabase' already exists.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):16:26:40][loginfo querry] Database 'myDatabase' exists.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):16:26:40][loginfo querry] Database 'myDatabase' exists.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):16:26:40][logerror querry] Table 'myTable' already exists in database 'myDatabase'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):16:26:40][loginfo querry] Database 'myDatabase' exists.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):16:26:40][loginfo querry] Database 'myDatabase' exists.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):16:26:40][logerror querry] Field item with the same content already exists in 'fullname' of table 'myTable' in database 'myDatabase'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):16:26:40][loginfo querry] Database 'myDatabase' exists.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):16:26:40][loginfo querry] Database 'myDatabase' exists.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):16:26:40][logerror querry] Field item with the same content already exists in 'username' of table 'myTable' in database 'myDatabase'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):16:26:40][loginfo querry] Database 'myDatabase' exists.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):16:26:40][loginfo querry] Database 'myDatabase' exists.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):16:26:40][logerror querry] Table 'myUsers' already exists in database 'myDatabase'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):16:26:40][loginfo querry] Database 'myDatabase' exists.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):16:26:40][loginfo querry] Database 'myDatabase' exists.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):16:26:40][logerror querry] Field item with the same content already exists in 'age' of table 'myUsers' in database 'myDatabase'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):16:26:40][loginfo querry] Database 'myDatabase' exists.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):16:26:40][loginfo querry] Database 'myDatabase' exists.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):16:26:40][logerror querry] Field item with the same content already exists in 'money' of table 'myUsers' in database 'myDatabase'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):16:26:40][loginfo querry] Database 'myDatabase' exists.

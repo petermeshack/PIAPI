@@ -1,0 +1,153 @@
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):14:34:30][logerror] Error loading the database: Unexpected end of JSON input
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):14:34:30][loginfo] Database 'users' created.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):14:34:30][loginfo] Table 'myTable' created in database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):14:34:30][loginfo]  Added fielditem into 'fullname' in table 'myTable' of database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):14:34:30][loginfo]  Added fielditem into 'age' in table 'myTable' of database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):14:34:30][loginfo] Database name changed from 'users' to 'mydb'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):14:36:54][logerror] Error loading the database: Unexpected end of JSON input
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):14:36:54][loginfo] Database 'users' created.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):14:36:54][loginfo] Table 'myTable' created in database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):14:36:54][loginfo]  Added fielditem into 'fullname' in table 'myTable' of database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):14:36:54][loginfo]  Added fielditem into 'age' in table 'myTable' of database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):14:36:54][loginfo] Table name changed from 'myTable' to 'employees' in database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):14:37:51][logerror] Error loading the database: Unexpected end of JSON input
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):14:37:51][loginfo] Database 'users' created.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):14:37:51][loginfo] Table 'myTable' created in database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):14:37:51][loginfo]  Added fielditem into 'fullname' in table 'myTable' of database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):14:37:51][loginfo]  Added fielditem into 'age' in table 'myTable' of database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):14:40:22][logerror] Error loading the database: Unexpected end of JSON input
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):14:40:22][loginfo] Database 'users' created.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):14:40:22][loginfo] Table 'myTable' created in database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):14:40:22][loginfo]  Added fielditem into 'fullname' in table 'myTable' of database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):14:40:22][loginfo]  Added fielditem into 'age' in table 'myTable' of database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):14:40:22][loginfo] Field 'fullname' in table 'myTable' of database 'users' was changed to 'names'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):14:45:5][logerror] Error loading the database: Unexpected end of JSON input
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):14:45:5][loginfo] Database 'users' created.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):14:45:5][loginfo] Table 'myTable' created in database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):14:45:5][loginfo]  Added fielditem into 'fullname' in table 'myTable' of database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):14:45:5][loginfo]  Added fielditem into 'age' in table 'myTable' of database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):14:45:5][loginfo] Content of item with id '01' in field 'fullname' of table 'myTable' in database 'users' was changed to 'john'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):14:48:18][logerror] Error loading the database: Unexpected end of JSON input
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):14:48:18][loginfo] Database 'users' created.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):14:48:18][loginfo] Table 'myTable' created in database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):14:48:18][loginfo]  Added fielditem into 'fullname' in table 'myTable' of database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):14:48:18][loginfo]  Added fielditem into 'age' in table 'myTable' of database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):14:48:18][loginfo] Changed 1 item(s) with content 'peter' to 'newContent' in field 'fullname' of table 'myTable' in database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):14:49:56][logerror] Error loading the database: Unexpected end of JSON input
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):14:49:56][loginfo] Database 'users' created.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):14:49:56][loginfo] Table 'myTable' created in database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):14:49:56][loginfo]  Added fielditem into 'fullname' in table 'myTable' of database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):14:49:56][loginfo]  Added fielditem into 'age' in table 'myTable' of database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):14:50:4][logerror] Database 'users' already exists.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):14:50:4][logerror] Table 'myTable' already exists in database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):14:50:4][loginfo]  Added fielditem into 'fullname' in table 'myTable' of database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):14:50:4][loginfo]  Added fielditem into 'age' in table 'myTable' of database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):14:50:4][loginfo] Deleted database 'users' and its content.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):14:52:32][loginfo] Database 'users' created.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):14:52:32][loginfo] Table 'myTable' created in database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):14:52:32][loginfo]  Added fielditem into 'fullname' in table 'myTable' of database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):14:52:32][loginfo]  Added fielditem into 'age' in table 'myTable' of database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):14:52:32][loginfo] Deleted table 'myTable' from database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):14:52:45][logerror] Database 'users' already exists.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):14:52:45][loginfo] Table 'myTable' created in database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):14:52:45][loginfo]  Added fielditem into 'fullname' in table 'myTable' of database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):14:52:45][loginfo]  Added fielditem into 'age' in table 'myTable' of database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):14:55:3][logerror] Database 'users' already exists.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):14:55:3][logerror] Table 'myTable' already exists in database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):14:55:3][loginfo]  Added fielditem into 'fullname' in table 'myTable' of database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):14:55:3][loginfo]  Added fielditem into 'age' in table 'myTable' of database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):14:55:3][loginfo] Deleted field 'fullname' from table 'myTable' of database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):14:58:13][logerror] Error loading the database: Unexpected end of JSON input
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):14:58:13][loginfo] Database 'users' created.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):14:58:13][loginfo] Table 'myTable' created in database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):14:58:13][loginfo]  Added fielditem into 'fullname' in table 'myTable' of database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):14:58:13][loginfo]  Added fielditem into 'age' in table 'myTable' of database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):14:58:13][logerror] No matching item found in field 'fullname' of table 'myTable' in database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):14:59:35][logerror] Database 'users' already exists.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):14:59:35][logerror] Table 'myTable' already exists in database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):14:59:35][loginfo]  Added fielditem into 'fullname' in table 'myTable' of database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):14:59:35][loginfo]  Added fielditem into 'age' in table 'myTable' of database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):14:59:35][loginfo] Deleted item from field 'fullname' in table 'myTable' of database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):15:2:53][logerror] Error loading the database: Unexpected end of JSON input
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):15:2:53][loginfo] Database 'users' created.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):15:2:53][loginfo] Table 'myTable' created in database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):15:2:53][loginfo]  Added fielditem into 'fullname' in table 'myTable' of database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):15:2:53][loginfo]  Added fielditem into 'age' in table 'myTable' of database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):15:2:53][loginfo] Deleted all items matching 'peter' from field 'fullname' in table 'myTable' of database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):15:7:45][logerror] Error loading the database: Unexpected end of JSON input
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):15:7:45][loginfo] Database 'users' created.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):15:7:45][loginfo] Table 'myTable' created in database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):15:7:45][loginfo]  Added fielditem into 'fullname' in table 'myTable' of database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):15:7:45][loginfo]  Added fielditem into 'age' in table 'myTable' of database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):15:7:45][loginfo] Table 'table2' created in database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):15:7:45][loginfo] Field 'field3' does not exist in table 'myTable'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):15:7:45][loginfo] Field 'fullname' does not exist in table 'table2'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):15:7:45][loginfo] Table 'joinedTable' created in database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):15:8:10][logerror] Database 'users' already exists.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):15:8:10][logerror] Table 'myTable' already exists in database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):15:8:10][loginfo]  Added fielditem into 'fullname' in table 'myTable' of database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):15:8:10][loginfo]  Added fielditem into 'age' in table 'myTable' of database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):15:8:10][logerror] Table 'table2' already exists in database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):15:8:10][loginfo] Field 'field3' does not exist in table 'myTable'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):15:8:10][loginfo] Field 'fullname' does not exist in table 'table2'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):15:8:10][logerror] Table 'joinedTable' already exists in database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):15:14:31][logerror] Error loading the database: Unexpected end of JSON input
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):15:14:31][loginfo] Database 'users' created.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):15:14:31][loginfo] Table 'myTable' created in database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):15:14:31][loginfo]  Added fielditem into 'fullname' in table 'myTable' of database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):15:14:31][loginfo]  Added fielditem into 'age' in table 'myTable' of database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):15:14:31][loginfo] Table 'table2' created in database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):15:14:31][loginfo] Field 'field3' does not exist in table 'myTable'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):15:14:31][loginfo] Field 'fullname' does not exist in table 'table2'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):15:14:31][loginfo] Table 'joinedTable' created in database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):15:14:31][loginfo] Join operation successful. Fields copied from tables [myTable, table2] to new table 'joinedTable' in target database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):15:18:32][logerror] Error loading the database: Unexpected end of JSON input
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):15:18:32][loginfo] Database 'users' created.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):15:18:32][loginfo] Table 'myTable' created in database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):15:18:32][loginfo]  Added fielditem into 'fullname' in table 'myTable' of database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):15:18:32][loginfo]  Added fielditem into 'age' in table 'myTable' of database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):15:18:32][loginfo] Table 'table2' created in database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):15:18:32][loginfo] Created new target database 'mypeople'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):15:18:32][loginfo] Field 'field3' does not exist in table 'myTable'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):15:18:32][loginfo] Field 'fullname' does not exist in table 'table2'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):15:19:11][logerror] Database 'users' already exists.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):15:19:11][logerror] Table 'myTable' already exists in database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):15:19:11][loginfo]  Added fielditem into 'fullname' in table 'myTable' of database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):15:19:11][loginfo]  Added fielditem into 'age' in table 'myTable' of database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):15:19:11][logerror] Table 'table2' already exists in database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):15:19:11][loginfo] Created new target database 'mypeople'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):15:19:11][loginfo] Field 'field3' does not exist in table 'myTable'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):15:19:11][loginfo] Field 'fullname' does not exist in table 'table2'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):15:19:11][loginfo] Join operation successful. Fields copied from tables [myTable, table2] to new table 'joinedTable' in target database 'mypeople'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):15:23:53][logerror] Error loading the database: Unexpected end of JSON input
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):15:23:53][loginfo] Database 'users' created.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):15:23:53][loginfo] Table 'myTable' created in database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):15:23:53][loginfo]  Added fielditem into 'fullname' in table 'myTable' of database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):15:23:53][loginfo]  Added fielditem into 'age' in table 'myTable' of database 'users'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):16:22:12][logerror] Error loading the database: Unexpected end of JSON input
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):16:22:12][logerror] Error loading the database: Unexpected end of JSON input
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):16:23:47][logerror] Error loading the database: Unexpected end of JSON input
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):16:23:47][logerror] Error loading the database: Unexpected end of JSON input
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):16:23:47][loginfo] Database 'myDatabase' created.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):16:23:47][loginfo] Table 'myTable' created in database 'myDatabase'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):16:23:47][loginfo]  Added fielditem into 'fullname' in table 'myTable' of database 'myDatabase'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):16:23:47][loginfo]  Added fielditem into 'username' in table 'myTable' of database 'myDatabase'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):16:23:47][loginfo] Table 'myUsers' created in database 'myDatabase'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):16:23:47][loginfo]  Added fielditem into 'age' in table 'myUsers' of database 'myDatabase'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):16:23:47][loginfo]  Added fielditem into 'money' in table 'myUsers' of database 'myDatabase'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):16:25:20][loginfo] Creating a new database...
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):16:25:20][loginfo] Database 'myDatabase' created.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):16:25:20][loginfo] Table 'myTable' created in database 'myDatabase'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):16:25:20][loginfo]  Added fielditem into 'fullname' in table 'myTable' of database 'myDatabase'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):16:25:20][loginfo]  Added fielditem into 'username' in table 'myTable' of database 'myDatabase'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):16:25:20][loginfo] Table 'myUsers' created in database 'myDatabase'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):16:25:20][loginfo]  Added fielditem into 'age' in table 'myUsers' of database 'myDatabase'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):16:25:20][loginfo]  Added fielditem into 'money' in table 'myUsers' of database 'myDatabase'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):16:26:31][loginfo] Creating a new database...
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):16:26:31][loginfo] Database 'myDatabase' created.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):16:26:31][loginfo] Table 'myTable' created in database 'myDatabase'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):16:26:31][loginfo]  Added fielditem into 'fullname' in table 'myTable' of database 'myDatabase'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):16:26:31][loginfo]  Added fielditem into 'username' in table 'myTable' of database 'myDatabase'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):16:26:31][loginfo] Table 'myUsers' created in database 'myDatabase'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):16:26:31][loginfo]  Added fielditem into 'age' in table 'myUsers' of database 'myDatabase'.
+[(dd/mm/yy):16/5/2023][time(hh/mm/ss):16:26:31][loginfo]  Added fielditem into 'money' in table 'myUsers' of database 'myDatabase'.
